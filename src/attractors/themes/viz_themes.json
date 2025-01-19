@@ -1,0 +1,4358 @@
+{
+  "3024_day": {
+    "background": "#f7f7f7",
+    "foreground": "#4a4543",
+    "colors": [
+      "#db2d20",
+      "#01a252",
+      "#01a0e4",
+      "#fded02",
+      "#b5e4f4",
+      "#a16a94"
+    ]
+  },
+  "3024_night": {
+    "background": "#090300",
+    "foreground": "#a5a2a2",
+    "colors": [
+      "#db2d20",
+      "#01a252",
+      "#01a0e4",
+      "#fded02",
+      "#b5e4f4",
+      "#a16a94"
+    ]
+  },
+  "aardvark_blue": {
+    "background": "#102040",
+    "foreground": "#dddddd",
+    "colors": [
+      "#aa342e",
+      "#4b8c0f",
+      "#1370d3",
+      "#dbba00",
+      "#008eb0",
+      "#c43ac3"
+    ]
+  },
+  "abernathy": {
+    "background": "#111416",
+    "foreground": "#eeeeec",
+    "colors": [
+      "#cd0000",
+      "#00cd00",
+      "#1093f5",
+      "#cdcd00",
+      "#00cdcd",
+      "#cd00cd"
+    ]
+  },
+  "adventure": {
+    "background": "#040404",
+    "foreground": "#feffff",
+    "colors": [
+      "#d84a33",
+      "#5da602",
+      "#417ab3",
+      "#eebb6e",
+      "#bdcfe5",
+      "#e5c499"
+    ]
+  },
+  "adventuretime": {
+    "background": "#1f1d45",
+    "foreground": "#f8dcc0",
+    "colors": [
+      "#bd0013",
+      "#4ab118",
+      "#0f4ac6",
+      "#e7741e",
+      "#70a598",
+      "#665993"
+    ]
+  },
+  "afterglow": {
+    "background": "#212121",
+    "foreground": "#d0d0d0",
+    "colors": [
+      "#ac4142",
+      "#7e8e50",
+      "#6c99bb",
+      "#e5b567",
+      "#7dd6cf",
+      "#9f4e85"
+    ]
+  },
+  "alabaster": {
+    "background": "#f7f7f7",
+    "foreground": "#000000",
+    "colors": [
+      "#aa3731",
+      "#448c27",
+      "#325cc0",
+      "#cb9000",
+      "#0083b2",
+      "#7a3e9d"
+    ]
+  },
+  "alienblood": {
+    "background": "#0f1610",
+    "foreground": "#637d75",
+    "colors": [
+      "#7f2b27",
+      "#2f7e25",
+      "#2f6a7f",
+      "#717f24",
+      "#327f77",
+      "#47587f"
+    ]
+  },
+  "andromeda": {
+    "background": "#262a33",
+    "foreground": "#e5e5e5",
+    "colors": [
+      "#cd3131",
+      "#05bc79",
+      "#2472c8",
+      "#e5e512",
+      "#0fa8cd",
+      "#bc3fbc"
+    ]
+  },
+  "apple_classic": {
+    "background": "#2c2b2b",
+    "foreground": "#d5a200",
+    "colors": [
+      "#c91b00",
+      "#00c200",
+      "#0225c7",
+      "#c7c400",
+      "#00c5c7",
+      "#ca30c7"
+    ]
+  },
+  "apple_system_colors": {
+    "background": "#1e1e1e",
+    "foreground": "#ffffff",
+    "colors": [
+      "#cc372e",
+      "#26a439",
+      "#0869cb",
+      "#cdac08",
+      "#479ec2",
+      "#9647bf"
+    ]
+  },
+  "arcoiris": {
+    "background": "#201f1e",
+    "foreground": "#eee4d9",
+    "colors": [
+      "#da2700",
+      "#12c258",
+      "#518bfc",
+      "#ffc656",
+      "#63fad5",
+      "#e37bd9"
+    ]
+  },
+  "argonaut": {
+    "background": "#0e1019",
+    "foreground": "#fffaf4",
+    "colors": [
+      "#ff000f",
+      "#8ce10b",
+      "#008df8",
+      "#ffb900",
+      "#00d8eb",
+      "#6d43a6"
+    ]
+  },
+  "arthur": {
+    "background": "#1c1c1c",
+    "foreground": "#ddeedd",
+    "colors": [
+      "#cd5c5c",
+      "#86af80",
+      "#6495ed",
+      "#e8ae5b",
+      "#b0c4de",
+      "#deb887"
+    ]
+  },
+  "ateliersulphurpool": {
+    "background": "#202746",
+    "foreground": "#979db4",
+    "colors": [
+      "#c94922",
+      "#ac9739",
+      "#3d8fd1",
+      "#c08b30",
+      "#22a2c9",
+      "#6679cc"
+    ]
+  },
+  "atom": {
+    "background": "#161719",
+    "foreground": "#c5c8c6",
+    "colors": [
+      "#fd5ff1",
+      "#87c38a",
+      "#85befd",
+      "#ffd7b1",
+      "#85befd",
+      "#b9b6fc"
+    ]
+  },
+  "atomonelight": {
+    "background": "#f9f9f9",
+    "foreground": "#2a2c33",
+    "colors": [
+      "#de3e35",
+      "#3f953a",
+      "#2f5af3",
+      "#d2b67c",
+      "#3f953a",
+      "#950095"
+    ]
+  },
+  "aurora": {
+    "background": "#23262e",
+    "foreground": "#ffca28",
+    "colors": [
+      "#f0266f",
+      "#8fd46d",
+      "#0321d7",
+      "#ffe66d",
+      "#03d6b8",
+      "#ee5d43"
+    ]
+  },
+  "ayu": {
+    "background": "#0f1419",
+    "foreground": "#e6e1cf",
+    "colors": [
+      "#ff3333",
+      "#b8cc52",
+      "#36a3d9",
+      "#e7c547",
+      "#95e6cb",
+      "#f07178"
+    ]
+  },
+  "ayu_mirage": {
+    "background": "#1f2430",
+    "foreground": "#cbccc6",
+    "colors": [
+      "#ed8274",
+      "#a6cc70",
+      "#6dcbfa",
+      "#fad07b",
+      "#90e1c6",
+      "#cfbafa"
+    ]
+  },
+  "ayu_light": {
+    "background": "#fafafa",
+    "foreground": "#5c6773",
+    "colors": [
+      "#ff3333",
+      "#86b300",
+      "#41a6d9",
+      "#f29718",
+      "#4dbf99",
+      "#f07178"
+    ]
+  },
+  "banana_blueberry": {
+    "background": "#191323",
+    "foreground": "#cccccc",
+    "colors": [
+      "#ff6b7f",
+      "#00bd9c",
+      "#22e8df",
+      "#e6c62f",
+      "#56b6c2",
+      "#dc396a"
+    ]
+  },
+  "batman": {
+    "background": "#1b1d1e",
+    "foreground": "#6f6f6f",
+    "colors": [
+      "#e6dc44",
+      "#c8be46",
+      "#737174",
+      "#f4fd22",
+      "#62605f",
+      "#747271"
+    ]
+  },
+  "belafonte_day": {
+    "background": "#d5ccba",
+    "foreground": "#45373c",
+    "colors": [
+      "#be100e",
+      "#858162",
+      "#426a79",
+      "#eaa549",
+      "#989a9c",
+      "#97522c"
+    ]
+  },
+  "belafonte_night": {
+    "background": "#20111b",
+    "foreground": "#968c83",
+    "colors": [
+      "#be100e",
+      "#858162",
+      "#426a79",
+      "#eaa549",
+      "#989a9c",
+      "#97522c"
+    ]
+  },
+  "birdsofparadise": {
+    "background": "#2a1f1d",
+    "foreground": "#e0dbb7",
+    "colors": [
+      "#be2d26",
+      "#6ba18a",
+      "#5a86ad",
+      "#e99d2a",
+      "#74a6ad",
+      "#ac80a6"
+    ]
+  },
+  "blazer": {
+    "background": "#0d1926",
+    "foreground": "#d9e6f2",
+    "colors": [
+      "#b87a7a",
+      "#7ab87a",
+      "#7a7ab8",
+      "#b8b87a",
+      "#7ab8b8",
+      "#b87ab8"
+    ]
+  },
+  "blue_matrix": {
+    "background": "#101116",
+    "foreground": "#00a2ff",
+    "colors": [
+      "#ff5680",
+      "#00ff9c",
+      "#00b0ff",
+      "#fffc58",
+      "#76c1ff",
+      "#d57bff"
+    ]
+  },
+  "blueberrypie": {
+    "background": "#1c0c28",
+    "foreground": "#babab9",
+    "colors": [
+      "#99246e",
+      "#5cb1b3",
+      "#90a5bd",
+      "#eab9a8",
+      "#7e83cc",
+      "#9d54a7"
+    ]
+  },
+  "bluedolphin": {
+    "background": "#006984",
+    "foreground": "#c5f2ff",
+    "colors": [
+      "#ff8288",
+      "#b4e88d",
+      "#82aaff",
+      "#f4d69f",
+      "#89ebff",
+      "#e9c1ff"
+    ]
+  },
+  "blulocodark": {
+    "background": "#282c34",
+    "foreground": "#b9c0cb",
+    "colors": [
+      "#fc2f52",
+      "#25a45c",
+      "#3476ff",
+      "#ff936a",
+      "#4483aa",
+      "#7a82da"
+    ]
+  },
+  "blulocolight": {
+    "background": "#f9f9f9",
+    "foreground": "#373a41",
+    "colors": [
+      "#d52753",
+      "#23974a",
+      "#275fe4",
+      "#df631c",
+      "#27618d",
+      "#823ff1"
+    ]
+  },
+  "borland": {
+    "background": "#0000a4",
+    "foreground": "#ffff4e",
+    "colors": [
+      "#ff6c60",
+      "#a8ff60",
+      "#96cbfe",
+      "#ffffb6",
+      "#c6c5fe",
+      "#ff73fd"
+    ]
+  },
+  "breeze": {
+    "background": "#31363b",
+    "foreground": "#eff0f1",
+    "colors": [
+      "#ed1515",
+      "#11d116",
+      "#1d99f3",
+      "#f67400",
+      "#1abc9c",
+      "#9b59b6"
+    ]
+  },
+  "bright_lights": {
+    "background": "#191919",
+    "foreground": "#b3c9d7",
+    "colors": [
+      "#ff355b",
+      "#b7e876",
+      "#76d4ff",
+      "#ffc251",
+      "#6cbfb5",
+      "#ba76e7"
+    ]
+  },
+  "broadcast": {
+    "background": "#2b2b2b",
+    "foreground": "#e6e1dc",
+    "colors": [
+      "#da4939",
+      "#519f50",
+      "#6d9cbe",
+      "#ffd24a",
+      "#6e9cbe",
+      "#d0d0ff"
+    ]
+  },
+  "brogrammer": {
+    "background": "#131313",
+    "foreground": "#d6dbe5",
+    "colors": [
+      "#f81118",
+      "#2dc55e",
+      "#2a84d2",
+      "#ecba0f",
+      "#1081d6",
+      "#4e5ab7"
+    ]
+  },
+  "bubbles": {
+    "background": "#161D38",
+    "foreground": "#FFFFFF",
+    "colors": [
+      "#F9555F",
+      "#21B089",
+      "#589DF6",
+      "#FEF02A",
+      "#1F9EE7",
+      "#944D95"
+    ]
+  },
+  "builtin_dark": {
+    "background": "#000000",
+    "foreground": "#bbbbbb",
+    "colors": [
+      "#bb0000",
+      "#00bb00",
+      "#0000bb",
+      "#bbbb00",
+      "#00bbbb",
+      "#bb00bb"
+    ]
+  },
+  "builtin_light": {
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "colors": [
+      "#bb0000",
+      "#00bb00",
+      "#0000bb",
+      "#bbbb00",
+      "#00bbbb",
+      "#bb00bb"
+    ]
+  },
+  "builtin_pastel_dark": {
+    "background": "#000000",
+    "foreground": "#bbbbbb",
+    "colors": [
+      "#ff6c60",
+      "#a8ff60",
+      "#96cbfe",
+      "#ffffb6",
+      "#c6c5fe",
+      "#ff73fd"
+    ]
+  },
+  "builtin_solarized_dark": {
+    "background": "#002b36",
+    "foreground": "#839496",
+    "colors": [
+      "#dc322f",
+      "#859900",
+      "#268bd2",
+      "#b58900",
+      "#2aa198",
+      "#d33682"
+    ]
+  },
+  "builtin_solarized_light": {
+    "background": "#fdf6e3",
+    "foreground": "#657b83",
+    "colors": [
+      "#dc322f",
+      "#859900",
+      "#268bd2",
+      "#b58900",
+      "#2aa198",
+      "#d33682"
+    ]
+  },
+  "builtin_tango_dark": {
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "colors": [
+      "#cc0000",
+      "#4e9a06",
+      "#3465a4",
+      "#c4a000",
+      "#06989a",
+      "#75507b"
+    ]
+  },
+  "builtin_tango_light": {
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "colors": [
+      "#cc0000",
+      "#4e9a06",
+      "#3465a4",
+      "#c4a000",
+      "#06989a",
+      "#75507b"
+    ]
+  },
+  "c64": {
+    "background": "#40318d",
+    "foreground": "#7869c4",
+    "colors": [
+      "#883932",
+      "#55a049",
+      "#40318d",
+      "#bfce72",
+      "#67b6bd",
+      "#8b3f96"
+    ]
+  },
+  "calamity": {
+    "background": "#2f2833",
+    "foreground": "#d5ced9",
+    "colors": [
+      "#fc644d",
+      "#a5f69c",
+      "#3b79c7",
+      "#e9d7a5",
+      "#74d3de",
+      "#f92672"
+    ]
+  },
+  "catppuccin_frappe": {
+    "background": "#303446",
+    "foreground": "#c6d0f5",
+    "colors": [
+      "#e78284",
+      "#a6d189",
+      "#8caaee",
+      "#e5c890",
+      "#81c8be",
+      "#f4b8e4"
+    ]
+  },
+  "catppuccin_latte": {
+    "background": "#eff1f5",
+    "foreground": "#4c4f69",
+    "colors": [
+      "#d20f39",
+      "#40a02b",
+      "#1e66f5",
+      "#df8e1d",
+      "#179299",
+      "#ea76cb"
+    ]
+  },
+  "catppuccin_macchiato": {
+    "background": "#24273a",
+    "foreground": "#cad3f5",
+    "colors": [
+      "#ed8796",
+      "#a6da95",
+      "#8aadf4",
+      "#eed49f",
+      "#8bd5ca",
+      "#f5bde6"
+    ]
+  },
+  "catppuccin_mocha": {
+    "background": "#1e1e2e",
+    "foreground": "#cdd6f4",
+    "colors": [
+      "#f38ba8",
+      "#a6e3a1",
+      "#89b4fa",
+      "#f9e2af",
+      "#94e2d5",
+      "#f5c2e7"
+    ]
+  },
+  "catppuccin-frappe": {
+    "background": "#303446",
+    "foreground": "#c6d0f5",
+    "colors": [
+      "#e78284",
+      "#a6d189",
+      "#8caaee",
+      "#e5c890",
+      "#81c8be",
+      "#f4b8e4"
+    ]
+  },
+  "catppuccin-latte": {
+    "background": "#eff1f5",
+    "foreground": "#4c4f69",
+    "colors": [
+      "#d20f39",
+      "#40a02b",
+      "#1e66f5",
+      "#df8e1d",
+      "#179299",
+      "#ea76cb"
+    ]
+  },
+  "catppuccin-macchiato": {
+    "background": "#24273a",
+    "foreground": "#cad3f5",
+    "colors": [
+      "#ed8796",
+      "#a6da95",
+      "#8aadf4",
+      "#eed49f",
+      "#8bd5ca",
+      "#f5bde6"
+    ]
+  },
+  "catppuccin-mocha": {
+    "background": "#1e1e2e",
+    "foreground": "#cdd6f4",
+    "colors": [
+      "#f38ba8",
+      "#a6e3a1",
+      "#89b4fa",
+      "#f9e2af",
+      "#94e2d5",
+      "#f5c2e7"
+    ]
+  },
+  "cga": {
+    "background": "#000000",
+    "foreground": "#aaaaaa",
+    "colors": [
+      "#aa0000",
+      "#00aa00",
+      "#0000aa",
+      "#aa5500",
+      "#00aaaa",
+      "#aa00aa"
+    ]
+  },
+  "chalk": {
+    "background": "#2b2d2e",
+    "foreground": "#d2d8d9",
+    "colors": [
+      "#b23a52",
+      "#789b6a",
+      "#2a7fac",
+      "#b9ac4a",
+      "#44a799",
+      "#bd4f5a"
+    ]
+  },
+  "chalkboard": {
+    "background": "#29262f",
+    "foreground": "#d9e6f2",
+    "colors": [
+      "#c37372",
+      "#72c373",
+      "#7372c3",
+      "#c2c372",
+      "#72c2c3",
+      "#c372c2"
+    ]
+  },
+  "challengerdeep": {
+    "background": "#1e1c31",
+    "foreground": "#cbe1e7",
+    "colors": [
+      "#ff5458",
+      "#62d196",
+      "#65b2ff",
+      "#ffb378",
+      "#63f2f1",
+      "#906cff"
+    ]
+  },
+  "chester": {
+    "background": "#2c3643",
+    "foreground": "#ffffff",
+    "colors": [
+      "#fa5e5b",
+      "#16c98d",
+      "#288ad6",
+      "#ffc83f",
+      "#28ddde",
+      "#d34590"
+    ]
+  },
+  "ciapre": {
+    "background": "#191c27",
+    "foreground": "#aea47a",
+    "colors": [
+      "#810009",
+      "#48513b",
+      "#576d8c",
+      "#cc8b3f",
+      "#5c4f4b",
+      "#724d7c"
+    ]
+  },
+  "clrs": {
+    "background": "#ffffff",
+    "foreground": "#262626",
+    "colors": [
+      "#f8282a",
+      "#328a5d",
+      "#135cd0",
+      "#fa701d",
+      "#33c3c1",
+      "#9f00bd"
+    ]
+  },
+  "cobalt_neon": {
+    "background": "#142838",
+    "foreground": "#8ff586",
+    "colors": [
+      "#ff2320",
+      "#3ba5ff",
+      "#8ff586",
+      "#e9e75c",
+      "#8ff586",
+      "#781aa0"
+    ]
+  },
+  "cobalt2": {
+    "background": "#132738",
+    "foreground": "#ffffff",
+    "colors": [
+      "#ff0000",
+      "#38de21",
+      "#1460d2",
+      "#ffe50a",
+      "#00bbbb",
+      "#ff005d"
+    ]
+  },
+  "coffee_theme": {
+    "background": "#f5deb3",
+    "foreground": "#000000",
+    "colors": [
+      "#c91b00",
+      "#00c200",
+      "#0225c7",
+      "#c7c400",
+      "#00c5c7",
+      "#ca30c7"
+    ]
+  },
+  "contrast_light": {
+    "background": "#FFFFFF",
+    "foreground": "#051840",
+    "colors": [
+      "#BF0000",
+      "#77B01B",
+      "#0D6BAD",
+      "#857E39",
+      "#41C2D0",
+      "#8700FF"
+    ]
+  },
+  "coolnight": {
+    "background": "#010C18",
+    "foreground": "#ECDEF4",
+    "colors": [
+      "#FF3A3A",
+      "#52FFD0",
+      "#1376F9",
+      "#FFF383",
+      "#FF5ED4",
+      "#C792EA"
+    ]
+  },
+  "crayonponyfish": {
+    "background": "#150707",
+    "foreground": "#68525a",
+    "colors": [
+      "#91002b",
+      "#579524",
+      "#8c87b0",
+      "#ab311b",
+      "#e8a866",
+      "#692f50"
+    ]
+  },
+  "crystal_violet": {
+    "background": "#1E1423",
+    "foreground": "#737DA0",
+    "colors": [
+      "#E63232",
+      "#32CD87",
+      "#5050E6",
+      "#EBA041",
+      "#2DB9E6",
+      "#6E14EB"
+    ]
+  },
+  "cutiepro": {
+    "background": "#181818",
+    "foreground": "#d5d0c9",
+    "colors": [
+      "#f56e7f",
+      "#bec975",
+      "#42d9c5",
+      "#f58669",
+      "#37cb8a",
+      "#d286b7"
+    ]
+  },
+  "cyber_cube": {
+    "background": "#161C2B",
+    "foreground": "#A4B1CD",
+    "colors": [
+      "#FF3E3E",
+      "#9FEF00",
+      "#2E6CFF",
+      "#FFAF00",
+      "#2DE2B2",
+      "#9F00FF"
+    ]
+  },
+  "cyberdyne": {
+    "background": "#151144",
+    "foreground": "#00ff92",
+    "colors": [
+      "#ff8373",
+      "#00c172",
+      "#0071cf",
+      "#d2a700",
+      "#6bffdd",
+      "#ff90fe"
+    ]
+  },
+  "cyberpunk": {
+    "background": "#332a57",
+    "foreground": "#e5e5e5",
+    "colors": [
+      "#ff7092",
+      "#00fbac",
+      "#00bfff",
+      "#fffa6a",
+      "#86cbfe",
+      "#df95ff"
+    ]
+  },
+  "cyberpunk2077": {
+    "background": "#272932",
+    "foreground": "#E455AE",
+    "colors": [
+      "#710000",
+      "#1AC5B0",
+      "#9381FF",
+      "#FDF500",
+      "#00D0DB",
+      "#742D8B"
+    ]
+  },
+  "dark_pastel": {
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "colors": [
+      "#ff5555",
+      "#55ff55",
+      "#5555ff",
+      "#ffff55",
+      "#55ffff",
+      "#ff55ff"
+    ]
+  },
+  "dark+": {
+    "background": "#1e1e1e",
+    "foreground": "#cccccc",
+    "colors": [
+      "#cd3131",
+      "#0dbc79",
+      "#2472c8",
+      "#e5e510",
+      "#11a8cd",
+      "#bc3fbc"
+    ]
+  },
+  "darkermatrix": {
+    "background": "#070c0e",
+    "foreground": "#28380d",
+    "colors": [
+      "#002e18",
+      "#6fa64c",
+      "#00cb6b",
+      "#595900",
+      "#125459",
+      "#412a4d"
+    ]
+  },
+  "darkmatrix": {
+    "background": "#070c0e",
+    "foreground": "#3e5715",
+    "colors": [
+      "#006536",
+      "#6fa64c",
+      "#2c9a84",
+      "#7e8000",
+      "#114d53",
+      "#452d53"
+    ]
+  },
+  "darkside": {
+    "background": "#222324",
+    "foreground": "#bababa",
+    "colors": [
+      "#e8341c",
+      "#68c256",
+      "#1c98e8",
+      "#f2d42c",
+      "#1c98e8",
+      "#8e69c9"
+    ]
+  },
+  "dayfox": {
+    "background": "#f6f2ee",
+    "foreground": "#3d2b5a",
+    "colors": [
+      "#a5222f",
+      "#396847",
+      "#2848a9",
+      "#ac5402",
+      "#287980",
+      "#6e33ce"
+    ]
+  },
+  "deep": {
+    "background": "#090909",
+    "foreground": "#cdcdcd",
+    "colors": [
+      "#d70005",
+      "#1cd915",
+      "#5665ff",
+      "#d9bd26",
+      "#50d2da",
+      "#b052da"
+    ]
+  },
+  "desert": {
+    "background": "#333333",
+    "foreground": "#ffffff",
+    "colors": [
+      "#ff2b2b",
+      "#98fb98",
+      "#cd853f",
+      "#f0e68c",
+      "#ffa0a0",
+      "#ffdead"
+    ]
+  },
+  "dimmedmonokai": {
+    "background": "#1f1f1f",
+    "foreground": "#b9bcba",
+    "colors": [
+      "#be3f48",
+      "#879a3b",
+      "#4f76a1",
+      "#c5a635",
+      "#578fa4",
+      "#855c8d"
+    ]
+  },
+  "django": {
+    "background": "#0b2f20",
+    "foreground": "#f8f8f8",
+    "colors": [
+      "#fd6209",
+      "#41a83e",
+      "#245032",
+      "#ffe862",
+      "#9df39f",
+      "#f8f8f8"
+    ]
+  },
+  "djangorebornagain": {
+    "background": "#051f14",
+    "foreground": "#dadedc",
+    "colors": [
+      "#fd6209",
+      "#41a83e",
+      "#245032",
+      "#ffe862",
+      "#9df39f",
+      "#f8f8f8"
+    ]
+  },
+  "djangosmooth": {
+    "background": "#245032",
+    "foreground": "#f8f8f8",
+    "colors": [
+      "#fd6209",
+      "#41a83e",
+      "#989898",
+      "#ffe862",
+      "#9df39f",
+      "#f8f8f8"
+    ]
+  },
+  "doom_peacock": {
+    "background": "#2b2a27",
+    "foreground": "#ede0ce",
+    "colors": [
+      "#cb4b16",
+      "#26a6a6",
+      "#2a6cc6",
+      "#bcd42a",
+      "#5699af",
+      "#a9a1e1"
+    ]
+  },
+  "doomone": {
+    "background": "#282c34",
+    "foreground": "#bbc2cf",
+    "colors": [
+      "#ff6c6b",
+      "#98be65",
+      "#a9a1e1",
+      "#ecbe7b",
+      "#51afef",
+      "#c678dd"
+    ]
+  },
+  "dotgov": {
+    "background": "#262c35",
+    "foreground": "#ebebeb",
+    "colors": [
+      "#bf091d",
+      "#3d9751",
+      "#17b2e0",
+      "#f6bb34",
+      "#8bd2ed",
+      "#7830b0"
+    ]
+  },
+  "dracula": {
+    "background": "#1e1f29",
+    "foreground": "#f8f8f2",
+    "colors": [
+      "#ff5555",
+      "#50fa7b",
+      "#bd93f9",
+      "#f1fa8c",
+      "#8be9fd",
+      "#ff79c6"
+    ]
+  },
+  "dracula+": {
+    "background": "#212121",
+    "foreground": "#f8f8f2",
+    "colors": [
+      "#ff5555",
+      "#50fa7b",
+      "#82aaff",
+      "#ffcb6b",
+      "#8be9fd",
+      "#c792ea"
+    ]
+  },
+  "draculaplus": {
+    "background": "#212121",
+    "foreground": "#F8F8F2",
+    "colors": [
+      "#FF5555",
+      "#50FA7B",
+      "#82aaff",
+      "#ffcb6b",
+      "#8BE9FD",
+      "#c792ea"
+    ]
+  },
+  "duckbones": {
+    "background": "#0e101a",
+    "foreground": "#ebefc0",
+    "colors": [
+      "#e03600",
+      "#5dcd97",
+      "#00a3cb",
+      "#e39500",
+      "#00a3cb",
+      "#795ccc"
+    ]
+  },
+  "duotone_dark": {
+    "background": "#1f1d27",
+    "foreground": "#b7a1ff",
+    "colors": [
+      "#d9393e",
+      "#2dcd73",
+      "#ffc284",
+      "#d9b76e",
+      "#2488ff",
+      "#de8d40"
+    ]
+  },
+  "earthsong": {
+    "background": "#292520",
+    "foreground": "#e5c7a9",
+    "colors": [
+      "#c94234",
+      "#85c54c",
+      "#1398b9",
+      "#f5ae2e",
+      "#509552",
+      "#d0633d"
+    ]
+  },
+  "elemental": {
+    "background": "#22211d",
+    "foreground": "#807a74",
+    "colors": [
+      "#98290f",
+      "#479a43",
+      "#497f7d",
+      "#7f7111",
+      "#387f58",
+      "#7f4e2f"
+    ]
+  },
+  "elementary": {
+    "background": "#181818",
+    "foreground": "#efefef",
+    "colors": [
+      "#d71c15",
+      "#5aa513",
+      "#063b8c",
+      "#fdb40c",
+      "#2595e1",
+      "#e40038"
+    ]
+  },
+  "encom": {
+    "background": "#000000",
+    "foreground": "#00a595",
+    "colors": [
+      "#9f0000",
+      "#008b00",
+      "#0081ff",
+      "#ffd000",
+      "#008b8b",
+      "#bc00ca"
+    ]
+  },
+  "espresso": {
+    "background": "#323232",
+    "foreground": "#ffffff",
+    "colors": [
+      "#d25252",
+      "#a5c261",
+      "#6c99bb",
+      "#ffc66d",
+      "#bed6ff",
+      "#d197d9"
+    ]
+  },
+  "espresso_libre": {
+    "background": "#2a211c",
+    "foreground": "#b8a898",
+    "colors": [
+      "#cc0000",
+      "#1a921c",
+      "#0066ff",
+      "#f0e53a",
+      "#06989a",
+      "#c5656b"
+    ]
+  },
+  "everblush": {
+    "background": "#141b1e",
+    "foreground": "#dadada",
+    "colors": [
+      "#e57474",
+      "#8ccf7e",
+      "#67b0e8",
+      "#e5c76b",
+      "#6cbfbf",
+      "#c47fd5"
+    ]
+  },
+  "fahrenheit": {
+    "background": "#000000",
+    "foreground": "#ffffce",
+    "colors": [
+      "#cda074",
+      "#9e744d",
+      "#720102",
+      "#fecf75",
+      "#979797",
+      "#734c4d"
+    ]
+  },
+  "fairyfloss": {
+    "background": "#5a5475",
+    "foreground": "#f8f8f2",
+    "colors": [
+      "#f92672",
+      "#c2ffdf",
+      "#c2ffdf",
+      "#e6c000",
+      "#c5a3ff",
+      "#ffb8d1"
+    ]
+  },
+  "farmhouse-dark": {
+    "background": "#1d2027",
+    "foreground": "#e8e4e1",
+    "colors": [
+      "#ba0004",
+      "#549d00",
+      "#0049e6",
+      "#c87300",
+      "#1fb65c",
+      "#9f1b61"
+    ]
+  },
+  "farmhouse-light": {
+    "background": "#e8e4e1",
+    "foreground": "#1d2027",
+    "colors": [
+      "#8d0003",
+      "#3a7d00",
+      "#092ccd",
+      "#a95600",
+      "#229256",
+      "#820046"
+    ]
+  },
+  "fideloper": {
+    "background": "#292f33",
+    "foreground": "#dbdae0",
+    "colors": [
+      "#cb1e2d",
+      "#edb8ac",
+      "#2e78c2",
+      "#b7ab9b",
+      "#309186",
+      "#c0236f"
+    ]
+  },
+  "firefly_traditional": {
+    "background": "#000000",
+    "foreground": "#f5f5f5",
+    "colors": [
+      "#c23720",
+      "#33bc26",
+      "#5a63ff",
+      "#afad24",
+      "#33bbc7",
+      "#d53ad2"
+    ]
+  },
+  "firefoxdev": {
+    "background": "#0e1011",
+    "foreground": "#7c8fa4",
+    "colors": [
+      "#e63853",
+      "#5eb83c",
+      "#359ddf",
+      "#a57706",
+      "#4b73a2",
+      "#d75cff"
+    ]
+  },
+  "firewatch": {
+    "background": "#1e2027",
+    "foreground": "#9ba2b2",
+    "colors": [
+      "#d95360",
+      "#5ab977",
+      "#4d89c4",
+      "#dfb563",
+      "#44a8b6",
+      "#d55119"
+    ]
+  },
+  "fishtank": {
+    "background": "#232537",
+    "foreground": "#ecf0fe",
+    "colors": [
+      "#c6004a",
+      "#acf157",
+      "#525fb8",
+      "#fecd5e",
+      "#968763",
+      "#986f82"
+    ]
+  },
+  "flat": {
+    "background": "#002240",
+    "foreground": "#2cc55d",
+    "colors": [
+      "#a82320",
+      "#32a548",
+      "#3167ac",
+      "#e58d11",
+      "#2c9370",
+      "#781aa0"
+    ]
+  },
+  "flatland": {
+    "background": "#1d1f21",
+    "foreground": "#b8dbef",
+    "colors": [
+      "#f18339",
+      "#9fd364",
+      "#5096be",
+      "#f4ef6d",
+      "#d63865",
+      "#695abc"
+    ]
+  },
+  "flexoki-dark": {
+    "background": "#1c1b1a",
+    "foreground": "#cecdc3",
+    "colors": [
+      "#d14d41",
+      "#879a39",
+      "#4385be",
+      "#d0a215",
+      "#3aa99f",
+      "#ce5d97"
+    ]
+  },
+  "flexoki-light": {
+    "background": "#fffcf0",
+    "foreground": "#100f0f",
+    "colors": [
+      "#af3029",
+      "#66800b",
+      "#205ea6",
+      "#ad8301",
+      "#24837b",
+      "#a02f6f"
+    ]
+  },
+  "floraverse": {
+    "background": "#0e0d15",
+    "foreground": "#dbd1b9",
+    "colors": [
+      "#64002c",
+      "#5d731a",
+      "#1d6da1",
+      "#cd751c",
+      "#42a38c",
+      "#b7077e"
+    ]
+  },
+  "forestblue": {
+    "background": "#051519",
+    "foreground": "#e2d8cd",
+    "colors": [
+      "#f8818e",
+      "#92d3a2",
+      "#8ed0ce",
+      "#1a8e63",
+      "#31658c",
+      "#5e468c"
+    ]
+  },
+  "framer": {
+    "background": "#111111",
+    "foreground": "#777777",
+    "colors": [
+      "#ff5555",
+      "#98ec65",
+      "#00aaff",
+      "#ffcc33",
+      "#88ddff",
+      "#aa88ff"
+    ]
+  },
+  "frontenddelight": {
+    "background": "#1b1c1d",
+    "foreground": "#adadad",
+    "colors": [
+      "#f8511b",
+      "#565747",
+      "#2c70b7",
+      "#fa771d",
+      "#3ca1a6",
+      "#f02e4f"
+    ]
+  },
+  "funforrest": {
+    "background": "#251200",
+    "foreground": "#dec165",
+    "colors": [
+      "#d6262b",
+      "#919c00",
+      "#4699a3",
+      "#be8a13",
+      "#da8213",
+      "#8d4331"
+    ]
+  },
+  "galaxy": {
+    "background": "#1d2837",
+    "foreground": "#ffffff",
+    "colors": [
+      "#f9555f",
+      "#21b089",
+      "#589df6",
+      "#fef02a",
+      "#1f9ee7",
+      "#944d95"
+    ]
+  },
+  "galizur": {
+    "background": "#071317",
+    "foreground": "#ddeeff",
+    "colors": [
+      "#aa1122",
+      "#33aa11",
+      "#2255cc",
+      "#ccaa22",
+      "#22bbdd",
+      "#7755aa"
+    ]
+  },
+  "ganyu": {
+    "background": "#221b2f",
+    "foreground": "#5055C2",
+    "colors": [
+      "#E06C75",
+      "#c7e18d",
+      "#5256c3",
+      "#f8b433",
+      "#2aadb3",
+      "#ddb2ff"
+    ]
+  },
+  "github": {
+    "background": "#f4f4f4",
+    "foreground": "#3e3e3e",
+    "colors": [
+      "#970b16",
+      "#07962a",
+      "#003e8a",
+      "#f8eec7",
+      "#89d1ec",
+      "#e94691"
+    ]
+  },
+  "github_dark": {
+    "background": "#101216",
+    "foreground": "#8b949e",
+    "colors": [
+      "#f78166",
+      "#56d364",
+      "#6ca4f8",
+      "#e3b341",
+      "#2b7489",
+      "#db61a2"
+    ]
+  },
+  "glacier": {
+    "background": "#0c1115",
+    "foreground": "#ffffff",
+    "colors": [
+      "#bd0f2f",
+      "#35a770",
+      "#1f5872",
+      "#fb9435",
+      "#778397",
+      "#bd2523"
+    ]
+  },
+  "glorious": {
+    "background": "#201d27",
+    "foreground": "#c8c8c9",
+    "colors": [
+      "#be0f17",
+      "#868715",
+      "#16777a",
+      "#cc881a",
+      "#578e57",
+      "#a04b73"
+    ]
+  },
+  "grape": {
+    "background": "#171423",
+    "foreground": "#9f9fa1",
+    "colors": [
+      "#ed2261",
+      "#1fa91b",
+      "#487df4",
+      "#8ddc20",
+      "#3bdeed",
+      "#8d35c9"
+    ]
+  },
+  "grass": {
+    "background": "#13773d",
+    "foreground": "#fff0a5",
+    "colors": [
+      "#bb0000",
+      "#00bb00",
+      "#0000a3",
+      "#e7b000",
+      "#00bbbb",
+      "#950062"
+    ]
+  },
+  "grey-green": {
+    "background": "#002a1a",
+    "foreground": "#ffffff",
+    "colors": [
+      "#fe1414",
+      "#74ff00",
+      "#00deff",
+      "#f1ff01",
+      "#00ffbc",
+      "#ff00f0"
+    ]
+  },
+  "gruvbox_light": {
+    "background": "#fbf1c7",
+    "foreground": "#282828",
+    "colors": [
+      "#9d0006",
+      "#79740e",
+      "#076678",
+      "#b57614",
+      "#427b58",
+      "#8f3f71"
+    ]
+  },
+  "gruvboxdark": {
+    "background": "#282828",
+    "foreground": "#ebdbb2",
+    "colors": [
+      "#cc241d",
+      "#98971a",
+      "#458588",
+      "#d79921",
+      "#689d6a",
+      "#b16286"
+    ]
+  },
+  "gruvboxdarkhard": {
+    "background": "#1b1b1b",
+    "foreground": "#ebdbb2",
+    "colors": [
+      "#cc241d",
+      "#98971a",
+      "#458588",
+      "#d79921",
+      "#689d6a",
+      "#b16286"
+    ]
+  },
+  "gruvboxlight": {
+    "background": "#fbf1c7",
+    "foreground": "#282828",
+    "colors": [
+      "#9d0006",
+      "#79740e",
+      "#076678",
+      "#b57614",
+      "#427b58",
+      "#8f3f71"
+    ]
+  },
+  "guezwhoz": {
+    "background": "#1c1c1c",
+    "foreground": "#d0d0d0",
+    "colors": [
+      "#ff5f5f",
+      "#87d7af",
+      "#5fafd7",
+      "#d7d787",
+      "#5fd7d7",
+      "#afafff"
+    ]
+  },
+  "h4rithd": {
+    "background": "#1F1F1E",
+    "foreground": "#839496",
+    "colors": [
+      "#C94B16",
+      "#849900",
+      "#839496",
+      "#B58900",
+      "#B0D1BA",
+      "#D33682"
+    ]
+  },
+  "h4rithd.com": {
+    "background": "#1E1E1E",
+    "foreground": "#FFFEFF",
+    "colors": [
+      "#CC0000",
+      "#4E9B07",
+      "#3464A5",
+      "#C4A000",
+      "#06989A",
+      "#75517A"
+    ]
+  },
+  "hacktober": {
+    "background": "#141414",
+    "foreground": "#c9c9c9",
+    "colors": [
+      "#b34538",
+      "#587744",
+      "#206ec5",
+      "#d08949",
+      "#ac9166",
+      "#864651"
+    ]
+  },
+  "hardcore": {
+    "background": "#121212",
+    "foreground": "#a0a0a0",
+    "colors": [
+      "#f92672",
+      "#a6e22e",
+      "#66d9ef",
+      "#fd971f",
+      "#5e7175",
+      "#9e6ffe"
+    ]
+  },
+  "harper": {
+    "background": "#010101",
+    "foreground": "#a8a49d",
+    "colors": [
+      "#f8b63f",
+      "#7fb5e1",
+      "#489e48",
+      "#d6da25",
+      "#f5bfd7",
+      "#b296c6"
+    ]
+  },
+  "hax0r_blue": {
+    "background": "#010515",
+    "foreground": "#11b7ff",
+    "colors": [
+      "#10b6ff",
+      "#10b6ff",
+      "#10b6ff",
+      "#10b6ff",
+      "#10b6ff",
+      "#10b6ff"
+    ]
+  },
+  "hax0r_gr33n": {
+    "background": "#020f01",
+    "foreground": "#16b10e",
+    "colors": [
+      "#15d00d",
+      "#15d00d",
+      "#15d00d",
+      "#15d00d",
+      "#15d00d",
+      "#15d00d"
+    ]
+  },
+  "hax0r_r3d": {
+    "background": "#200101",
+    "foreground": "#b10e0e",
+    "colors": [
+      "#b00d0d",
+      "#b00d0d",
+      "#b00d0d",
+      "#b00d0d",
+      "#b00d0d",
+      "#b00d0d"
+    ]
+  },
+  "highway": {
+    "background": "#222225",
+    "foreground": "#ededed",
+    "colors": [
+      "#d00e18",
+      "#138034",
+      "#006bb3",
+      "#ffcb3e",
+      "#384564",
+      "#6b2775"
+    ]
+  },
+  "hipster_green": {
+    "background": "#100b05",
+    "foreground": "#84c138",
+    "colors": [
+      "#b6214a",
+      "#00a600",
+      "#246eb2",
+      "#bfbf00",
+      "#00a6b2",
+      "#b200b2"
+    ]
+  },
+  "hivacruz": {
+    "background": "#132638",
+    "foreground": "#ede4e4",
+    "colors": [
+      "#c94922",
+      "#ac9739",
+      "#3d8fd1",
+      "#c08b30",
+      "#22a2c9",
+      "#6679cc"
+    ]
+  },
+  "homebrew": {
+    "background": "#000000",
+    "foreground": "#00ff00",
+    "colors": [
+      "#990000",
+      "#00a600",
+      "#0000b2",
+      "#999900",
+      "#00a6b2",
+      "#b200b2"
+    ]
+  },
+  "hopscotch": {
+    "background": "#322931",
+    "foreground": "#b9b5b8",
+    "colors": [
+      "#dd464c",
+      "#8fc13e",
+      "#1290bf",
+      "#fdcc59",
+      "#149b93",
+      "#c85e7c"
+    ]
+  },
+  "hopscotch.256": {
+    "background": "#322931",
+    "foreground": "#b9b5b8",
+    "colors": [
+      "#dd464c",
+      "#8fc13e",
+      "#1290bf",
+      "#fdcc59",
+      "#149b93",
+      "#c85e7c"
+    ]
+  },
+  "horizon": {
+    "background": "#1c1e26",
+    "foreground": "#bdc0c2",
+    "colors": [
+      "#E95678",
+      "#29D398",
+      "#26BBD9",
+      "#FAB795",
+      "#59E1E3",
+      "#EE64AC"
+    ]
+  },
+  "hurtado": {
+    "background": "#000000",
+    "foreground": "#dbdbdb",
+    "colors": [
+      "#ff1b00",
+      "#a5e055",
+      "#496487",
+      "#fbe74a",
+      "#86e9fe",
+      "#fd5ff1"
+    ]
+  },
+  "hybrid": {
+    "background": "#161719",
+    "foreground": "#b7bcba",
+    "colors": [
+      "#b84d51",
+      "#b3bf5a",
+      "#6e90b0",
+      "#e4b55e",
+      "#7fbfb4",
+      "#a17eac"
+    ]
+  },
+  "hyper": {
+    "background": "#000000",
+    "foreground": "#FFFFFF",
+    "colors": [
+      "#FE0100",
+      "#33FF00",
+      "#0066FF",
+      "#FEFF00",
+      "#00FFFF",
+      "#CC00FF"
+    ]
+  },
+  "iceberg-dark": {
+    "background": "#161821",
+    "foreground": "#c6c8d1",
+    "colors": [
+      "#e27878",
+      "#b4be82",
+      "#84a0c6",
+      "#e2a478",
+      "#89b8c2",
+      "#a093c7"
+    ]
+  },
+  "iceberg-light": {
+    "background": "#e8e9ec",
+    "foreground": "#33374c",
+    "colors": [
+      "#cc517a",
+      "#668e3d",
+      "#2d539e",
+      "#c57339",
+      "#3f83a6",
+      "#7759b4"
+    ]
+  },
+  "ic_green_ppl": {
+    "background": "#2c2c2c",
+    "foreground": "#e0f1dc",
+    "colors": [
+      "#ff2736",
+      "#41a638",
+      "#2ec3b9",
+      "#76a831",
+      "#3ca078",
+      "#50a096"
+    ]
+  },
+  "ic_orange_ppl": {
+    "background": "#262626",
+    "foreground": "#ffcb83",
+    "colors": [
+      "#c13900",
+      "#a4a900",
+      "#bd6d00",
+      "#caaf00",
+      "#f79500",
+      "#fc5e00"
+    ]
+  },
+  "idea": {
+    "background": "#202020",
+    "foreground": "#adadad",
+    "colors": [
+      "#fc5256",
+      "#98b61c",
+      "#437ee7",
+      "#ccb444",
+      "#248887",
+      "#9d74b0"
+    ]
+  },
+  "idletoes": {
+    "background": "#323232",
+    "foreground": "#ffffff",
+    "colors": [
+      "#d25252",
+      "#7fe173",
+      "#4099ff",
+      "#ffc66d",
+      "#bed6ff",
+      "#f680ff"
+    ]
+  },
+  "ir_black": {
+    "background": "#000000",
+    "foreground": "#f1f1f1",
+    "colors": [
+      "#fa6c60",
+      "#a8ff60",
+      "#96cafe",
+      "#fffeb7",
+      "#c6c5fe",
+      "#fa73fd"
+    ]
+  },
+  "iterm2_dark_background": {
+    "background": "#000000",
+    "foreground": "#c7c7c7",
+    "colors": [
+      "#c91b00",
+      "#00c200",
+      "#0225c7",
+      "#c7c400",
+      "#00c5c7",
+      "#ca30c7"
+    ]
+  },
+  "iterm2_default": {
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "colors": [
+      "#c91b00",
+      "#00c200",
+      "#2225c4",
+      "#c7c400",
+      "#00c5c7",
+      "#ca30c7"
+    ]
+  },
+  "iterm2_light_background": {
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "colors": [
+      "#c91b00",
+      "#00c200",
+      "#0225c7",
+      "#c7c400",
+      "#00c5c7",
+      "#ca30c7"
+    ]
+  },
+  "iterm2_pastel_dark_background": {
+    "background": "#000000",
+    "foreground": "#c7c7c7",
+    "colors": [
+      "#ff8373",
+      "#b4fb73",
+      "#a5d5fe",
+      "#fffdc3",
+      "#d1d1fe",
+      "#ff90fe"
+    ]
+  },
+  "iterm2_smoooooth": {
+    "background": "#15191f",
+    "foreground": "#dcdcdc",
+    "colors": [
+      "#b43c2a",
+      "#00c200",
+      "#2744c7",
+      "#c7c400",
+      "#00c5c7",
+      "#c040be"
+    ]
+  },
+  "iterm2_solarized_dark": {
+    "background": "#002b36",
+    "foreground": "#839496",
+    "colors": [
+      "#dc322f",
+      "#859900",
+      "#268bd2",
+      "#b58900",
+      "#2aa198",
+      "#d33682"
+    ]
+  },
+  "iterm2_solarized_light": {
+    "background": "#fdf6e3",
+    "foreground": "#657b83",
+    "colors": [
+      "#dc322f",
+      "#859900",
+      "#268bd2",
+      "#b58900",
+      "#2aa198",
+      "#d33682"
+    ]
+  },
+  "iterm2_tango_dark": {
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "colors": [
+      "#d81e00",
+      "#5ea702",
+      "#427ab3",
+      "#cfae00",
+      "#00a7aa",
+      "#89658e"
+    ]
+  },
+  "iterm2_tango_light": {
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "colors": [
+      "#d81e00",
+      "#5ea702",
+      "#427ab3",
+      "#cfae00",
+      "#00a7aa",
+      "#89658e"
+    ]
+  },
+  "jackie_brown": {
+    "background": "#2c1d16",
+    "foreground": "#ffcc2f",
+    "colors": [
+      "#ef5734",
+      "#2baf2b",
+      "#246eb2",
+      "#bebf00",
+      "#00acee",
+      "#d05ec1"
+    ]
+  },
+  "japanesque": {
+    "background": "#1e1e1e",
+    "foreground": "#f7f6ec",
+    "colors": [
+      "#cf3f61",
+      "#7bb75b",
+      "#4c9ad4",
+      "#e9b32a",
+      "#389aad",
+      "#a57fc4"
+    ]
+  },
+  "jellybeans": {
+    "background": "#121212",
+    "foreground": "#dedede",
+    "colors": [
+      "#e27373",
+      "#94b979",
+      "#97bedc",
+      "#ffba7b",
+      "#00988e",
+      "#e1c0fa"
+    ]
+  },
+  "jetbrains_darcula": {
+    "background": "#202020",
+    "foreground": "#adadad",
+    "colors": [
+      "#fa5355",
+      "#126e00",
+      "#4581eb",
+      "#c2c300",
+      "#33c2c1",
+      "#fa54ff"
+    ]
+  },
+  "jubi": {
+    "background": "#262b33",
+    "foreground": "#c3d3de",
+    "colors": [
+      "#cf7b98",
+      "#90a94b",
+      "#576ea6",
+      "#6ebfc0",
+      "#75a7d2",
+      "#bc4f68"
+    ]
+  },
+  "juicy_colors": {
+    "background": "#292a24",
+    "foreground": "#CCCCCC",
+    "colors": [
+      "#FF6249",
+      "#68D644",
+      "#209DE5",
+      "#FCC223",
+      "#00D2FF",
+      "#AF80FF"
+    ]
+  },
+  "kanagawa": {
+    "background": "#1F1F28",
+    "foreground": "#DCD7BA",
+    "colors": [
+      "#E82424",
+      "#76946A",
+      "#658594",
+      "#FF9E3B",
+      "#9CABCA",
+      "#957FB8"
+    ]
+  },
+  "kanagawabones": {
+    "background": "#1f1f28",
+    "foreground": "#ddd8bb",
+    "colors": [
+      "#e46a78",
+      "#98bc6d",
+      "#7eb3c9",
+      "#e5c283",
+      "#7eb3c9",
+      "#957fb8"
+    ]
+  },
+  "kibble": {
+    "background": "#0e100a",
+    "foreground": "#f7f7f7",
+    "colors": [
+      "#c70031",
+      "#29cf13",
+      "#3449d1",
+      "#d8e30e",
+      "#0798ab",
+      "#8400ff"
+    ]
+  },
+  "kolorit": {
+    "background": "#1d1a1e",
+    "foreground": "#efecec",
+    "colors": [
+      "#ff5b82",
+      "#47d7a1",
+      "#5db4ee",
+      "#e8e562",
+      "#57e9eb",
+      "#da6cda"
+    ]
+  },
+  "konsolas": {
+    "background": "#060606",
+    "foreground": "#c8c1c1",
+    "colors": [
+      "#aa1717",
+      "#18b218",
+      "#2323a5",
+      "#ebae1f",
+      "#42b0c8",
+      "#ad1edc"
+    ]
+  },
+  "lab_fox": {
+    "background": "#2e2e2e",
+    "foreground": "#ffffff",
+    "colors": [
+      "#fc6d26",
+      "#3eb383",
+      "#db3b21",
+      "#fca121",
+      "#6e49cb",
+      "#380d75"
+    ]
+  },
+  "laser": {
+    "background": "#030d18",
+    "foreground": "#f106e3",
+    "colors": [
+      "#ff8373",
+      "#b4fb73",
+      "#fed300",
+      "#09b4bd",
+      "#d1d1fe",
+      "#ff90fe"
+    ]
+  },
+  "later_this_evening": {
+    "background": "#222222",
+    "foreground": "#959595",
+    "colors": [
+      "#d45a60",
+      "#afba67",
+      "#a0bad6",
+      "#e5d289",
+      "#91bfb7",
+      "#c092d6"
+    ]
+  },
+  "lavandula": {
+    "background": "#050014",
+    "foreground": "#736e7d",
+    "colors": [
+      "#7d1625",
+      "#337e6f",
+      "#4f4a7f",
+      "#7f6f49",
+      "#58777f",
+      "#5a3f7f"
+    ]
+  },
+  "liquidcarbon": {
+    "background": "#303030",
+    "foreground": "#afc2c2",
+    "colors": [
+      "#ff3030",
+      "#559a70",
+      "#0099cc",
+      "#ccac00",
+      "#7ac4cc",
+      "#cc69c8"
+    ]
+  },
+  "liquidcarbontransparent": {
+    "background": "#000000",
+    "foreground": "#afc2c2",
+    "colors": [
+      "#ff3030",
+      "#559a70",
+      "#0099cc",
+      "#ccac00",
+      "#7ac4cc",
+      "#cc69c8"
+    ]
+  },
+  "liquidcarbontransparentinverse": {
+    "background": "#000000",
+    "foreground": "#afc2c2",
+    "colors": [
+      "#ff3030",
+      "#559a70",
+      "#0099cc",
+      "#ccac00",
+      "#7ac4cc",
+      "#cc69c8"
+    ]
+  },
+  "lovelace": {
+    "background": "#1d1f28",
+    "foreground": "#fdfdfd",
+    "colors": [
+      "#f37f97",
+      "#5adecd",
+      "#8897f4",
+      "#f2a272",
+      "#79e6f3",
+      "#c574dd"
+    ]
+  },
+  "man_page": {
+    "background": "#fef49c",
+    "foreground": "#000000",
+    "colors": [
+      "#cc0000",
+      "#00a600",
+      "#0000b2",
+      "#999900",
+      "#00a6b2",
+      "#b200b2"
+    ]
+  },
+  "mariana": {
+    "background": "#343d46",
+    "foreground": "#d8dee9",
+    "colors": [
+      "#ec5f66",
+      "#99c794",
+      "#6699cc",
+      "#f9ae58",
+      "#5fb4b4",
+      "#c695c6"
+    ]
+  },
+  "material": {
+    "background": "#eaeaea",
+    "foreground": "#232322",
+    "colors": [
+      "#b7141f",
+      "#457b24",
+      "#134eb2",
+      "#f6981e",
+      "#0e717c",
+      "#560088"
+    ]
+  },
+  "materialdark": {
+    "background": "#232322",
+    "foreground": "#e5e5e5",
+    "colors": [
+      "#b7141f",
+      "#457b24",
+      "#134eb2",
+      "#f6981e",
+      "#0e717c",
+      "#560088"
+    ]
+  },
+  "materialdarker": {
+    "background": "#212121",
+    "foreground": "#eeffff",
+    "colors": [
+      "#ff5370",
+      "#c3e88d",
+      "#82aaff",
+      "#ffcb6b",
+      "#89ddff",
+      "#c792ea"
+    ]
+  },
+  "materialdesigncolors": {
+    "background": "#1d262a",
+    "foreground": "#e7ebed",
+    "colors": [
+      "#fc3841",
+      "#5cf19e",
+      "#37b6ff",
+      "#fed032",
+      "#59ffd1",
+      "#fc226e"
+    ]
+  },
+  "materialocean": {
+    "background": "#0f111a",
+    "foreground": "#8f93a2",
+    "colors": [
+      "#ff5370",
+      "#c3e88d",
+      "#82aaff",
+      "#ffcb6b",
+      "#89ddff",
+      "#c792ea"
+    ]
+  },
+  "mathias": {
+    "background": "#000000",
+    "foreground": "#bbbbbb",
+    "colors": [
+      "#e52222",
+      "#a6e32d",
+      "#c48dff",
+      "#fc951e",
+      "#67d9f0",
+      "#fa2573"
+    ]
+  },
+  "matrix": {
+    "background": "#0f191c",
+    "foreground": "#426644",
+    "colors": [
+      "#23755a",
+      "#82d967",
+      "#3f5242",
+      "#ffd700",
+      "#50b45a",
+      "#409931"
+    ]
+  },
+  "medallion": {
+    "background": "#1d1908",
+    "foreground": "#cac296",
+    "colors": [
+      "#b64c00",
+      "#7c8b16",
+      "#616bb0",
+      "#d3bd26",
+      "#916c25",
+      "#8c5a90"
+    ]
+  },
+  "mellifluous": {
+    "background": "#1a1a1a",
+    "foreground": "#dadada",
+    "colors": [
+      "#d29393",
+      "#b3b393",
+      "#a8a1be",
+      "#cbaa89",
+      "#c0af8c",
+      "#b39fb0"
+    ]
+  },
+  "midnight-in-mojave": {
+    "background": "#1e1e1e",
+    "foreground": "#ffffff",
+    "colors": [
+      "#ff453a",
+      "#32d74b",
+      "#0a84ff",
+      "#ffd60a",
+      "#5ac8fa",
+      "#bf5af2"
+    ]
+  },
+  "mirage": {
+    "background": "#1b2738",
+    "foreground": "#a6b2c0",
+    "colors": [
+      "#ff9999",
+      "#85cc95",
+      "#7fb5ff",
+      "#ffd700",
+      "#21c7a8",
+      "#ddb3ff"
+    ]
+  },
+  "misterioso": {
+    "background": "#2d3743",
+    "foreground": "#e1e1e0",
+    "colors": [
+      "#ff4242",
+      "#74af68",
+      "#338f86",
+      "#ffad29",
+      "#23d7d7",
+      "#9414e6"
+    ]
+  },
+  "molokai": {
+    "background": "#121212",
+    "foreground": "#bbbbbb",
+    "colors": [
+      "#fa2573",
+      "#98e123",
+      "#1080d0",
+      "#dfd460",
+      "#43a8d0",
+      "#8700ff"
+    ]
+  },
+  "monalisa": {
+    "background": "#120b0d",
+    "foreground": "#f7d66a",
+    "colors": [
+      "#9b291c",
+      "#636232",
+      "#515c5d",
+      "#c36e28",
+      "#588056",
+      "#9b1d29"
+    ]
+  },
+  "monokai_cmder": {
+    "background": "#272822",
+    "foreground": "#cacaca",
+    "colors": [
+      "#a70334",
+      "#74aa04",
+      "#01549e",
+      "#b6b649",
+      "#1a83a6",
+      "#89569c"
+    ]
+  },
+  "monokai_pro": {
+    "background": "#403e41",
+    "foreground": "#fcfcfa",
+    "colors": [
+      "#ff6188",
+      "#a9dc76",
+      "#fc9867",
+      "#ffd866",
+      "#78dce8",
+      "#ab9df2"
+    ]
+  },
+  "monokai_pro_(filter_octagon)": {
+    "background": "#282a3a",
+    "foreground": "#eaf2f1",
+    "colors": [
+      "#d81e00",
+      "#5ea702",
+      "#427ab3",
+      "#cfae00",
+      "#00a7aa",
+      "#89658e"
+    ]
+  },
+  "monokai_pro_(filter_ristretto)": {
+    "background": "#2C2525",
+    "foreground": "#FFF1F3",
+    "colors": [
+      "#FD6883",
+      "#ADDA78",
+      "#F38D70",
+      "#F9CC6C",
+      "#85DACC",
+      "#A8A9EB"
+    ]
+  },
+  "monokai_remastered": {
+    "background": "#0c0c0c",
+    "foreground": "#d9d9d9",
+    "colors": [
+      "#f4005f",
+      "#98e024",
+      "#9d65ff",
+      "#fd971f",
+      "#58d1eb",
+      "#f4005f"
+    ]
+  },
+  "monokai_soda": {
+    "background": "#1a1a1a",
+    "foreground": "#c4c5b5",
+    "colors": [
+      "#f4005f",
+      "#98e024",
+      "#9d65ff",
+      "#fa8419",
+      "#58d1eb",
+      "#f4005f"
+    ]
+  },
+  "monokai_vivid": {
+    "background": "#121212",
+    "foreground": "#f9f9f9",
+    "colors": [
+      "#fa2934",
+      "#98e123",
+      "#0443ff",
+      "#fff30a",
+      "#01b6ed",
+      "#f800f8"
+    ]
+  },
+  "moonlight_ii": {
+    "background": "#222436",
+    "foreground": "#c8d3f5",
+    "colors": [
+      "#ff757f",
+      "#c3e88d",
+      "#82aaff",
+      "#ffc777",
+      "#86e1fc",
+      "#c099ff"
+    ]
+  },
+  "n0tch2k": {
+    "background": "#222222",
+    "foreground": "#a0a0a0",
+    "colors": [
+      "#a95551",
+      "#666666",
+      "#657d3e",
+      "#a98051",
+      "#c9c9c9",
+      "#767676"
+    ]
+  },
+  "neobones_dark": {
+    "background": "#0f191f",
+    "foreground": "#c6d5cf",
+    "colors": [
+      "#de6e7c",
+      "#90ff6b",
+      "#8190d4",
+      "#b77e64",
+      "#66a5ad",
+      "#b279a7"
+    ]
+  },
+  "neobones_light": {
+    "background": "#e5ede6",
+    "foreground": "#202e18",
+    "colors": [
+      "#a8334c",
+      "#567a30",
+      "#286486",
+      "#944927",
+      "#3b8992",
+      "#88507d"
+    ]
+  },
+  "neon": {
+    "background": "#14161a",
+    "foreground": "#00fffc",
+    "colors": [
+      "#ff3045",
+      "#5ffa74",
+      "#0208cb",
+      "#fffc7e",
+      "#00fffc",
+      "#f924e7"
+    ]
+  },
+  "neopolitan": {
+    "background": "#271f19",
+    "foreground": "#ffffff",
+    "colors": [
+      "#800000",
+      "#61ce3c",
+      "#253b76",
+      "#fbde2d",
+      "#8da6ce",
+      "#ff0080"
+    ]
+  },
+  "neutron": {
+    "background": "#1c1e22",
+    "foreground": "#e6e8ef",
+    "colors": [
+      "#b54036",
+      "#5ab977",
+      "#6a7c93",
+      "#deb566",
+      "#3f94a8",
+      "#a4799d"
+    ]
+  },
+  "night_city": {
+    "background": "#090819",
+    "foreground": "#6600FF",
+    "colors": [
+      "#FF0000",
+      "#00FF80",
+      "#E388FF",
+      "#FFD400",
+      "#00E5FF",
+      "#9900FF"
+    ]
+  },
+  "night_owlish_light": {
+    "background": "#ffffff",
+    "foreground": "#403f53",
+    "colors": [
+      "#d3423e",
+      "#2aa298",
+      "#4876d6",
+      "#daaa01",
+      "#08916a",
+      "#403f53"
+    ]
+  },
+  "nightfox": {
+    "background": "#192330",
+    "foreground": "#cdcecf",
+    "colors": [
+      "#c94f6d",
+      "#81b29a",
+      "#719cd6",
+      "#dbc074",
+      "#63cdcf",
+      "#9d79d6"
+    ]
+  },
+  "nightlion_v1": {
+    "background": "#000000",
+    "foreground": "#bbbbbb",
+    "colors": [
+      "#bb0000",
+      "#5fde8f",
+      "#276bd8",
+      "#f3f167",
+      "#00dadf",
+      "#bb00bb"
+    ]
+  },
+  "nightlion_v2": {
+    "background": "#171717",
+    "foreground": "#bbbbbb",
+    "colors": [
+      "#bb0000",
+      "#04f623",
+      "#64d0f0",
+      "#f3f167",
+      "#00dadf",
+      "#ce6fdb"
+    ]
+  },
+  "niji": {
+    "background": "#141515",
+    "foreground": "#ffffff",
+    "colors": [
+      "#d23e08",
+      "#54ca74",
+      "#2ab9ff",
+      "#fff700",
+      "#1ef9f5",
+      "#ff50da"
+    ]
+  },
+  "nocturnal_winter": {
+    "background": "#0d0d17",
+    "foreground": "#e6e5e5",
+    "colors": [
+      "#f12d52",
+      "#09cd7e",
+      "#3182e0",
+      "#f5f17a",
+      "#09c87a",
+      "#ff2b6d"
+    ]
+  },
+  "nord": {
+    "background": "#2e3440",
+    "foreground": "#d8dee9",
+    "colors": [
+      "#bf616a",
+      "#a3be8c",
+      "#81a1c1",
+      "#ebcb8b",
+      "#88c0d0",
+      "#b48ead"
+    ]
+  },
+  "nord-light": {
+    "background": "#e5e9f0",
+    "foreground": "#414858",
+    "colors": [
+      "#bf616a",
+      "#a3be8c",
+      "#81a1c1",
+      "#ebcb8b",
+      "#88c0d0",
+      "#b48ead"
+    ]
+  },
+  "novel": {
+    "background": "#dfdbc3",
+    "foreground": "#3b2322",
+    "colors": [
+      "#cc0000",
+      "#009600",
+      "#0000cc",
+      "#d06b00",
+      "#0087cc",
+      "#cc00cc"
+    ]
+  },
+  "nvimdark": {
+    "background": "#14161b",
+    "foreground": "#e0e2ea",
+    "colors": [
+      "#ffc0b9",
+      "#b3f6c0",
+      "#a6dbff",
+      "#fce094",
+      "#8cf8f7",
+      "#ffcaff"
+    ]
+  },
+  "nvimlight": {
+    "background": "#e0e2ea",
+    "foreground": "#14161b",
+    "colors": [
+      "#590008",
+      "#005523",
+      "#004c73",
+      "#6b5300",
+      "#007373",
+      "#470045"
+    ]
+  },
+  "obsidian": {
+    "background": "#283033",
+    "foreground": "#cdcdcd",
+    "colors": [
+      "#a60001",
+      "#00bb00",
+      "#3a9bdb",
+      "#fecd22",
+      "#00bbbb",
+      "#bb00bb"
+    ]
+  },
+  "ocean": {
+    "background": "#224fbc",
+    "foreground": "#ffffff",
+    "colors": [
+      "#990000",
+      "#00a600",
+      "#0000b2",
+      "#999900",
+      "#00a6b2",
+      "#b200b2"
+    ]
+  },
+  "oceanic-next": {
+    "background": "#121b21",
+    "foreground": "#b3b8c3",
+    "colors": [
+      "#e44754",
+      "#89bd82",
+      "#5486c0",
+      "#f7bd51",
+      "#50a5a4",
+      "#b77eb8"
+    ]
+  },
+  "oceanicmaterial": {
+    "background": "#1c262b",
+    "foreground": "#c2c8d7",
+    "colors": [
+      "#ee2b2a",
+      "#40a33f",
+      "#1e80f0",
+      "#ffea2e",
+      "#16afca",
+      "#8800a0"
+    ]
+  },
+  "ollie": {
+    "background": "#222125",
+    "foreground": "#8a8dae",
+    "colors": [
+      "#ac2e31",
+      "#31ac61",
+      "#2d57ac",
+      "#ac4300",
+      "#1fa6ac",
+      "#b08528"
+    ]
+  },
+  "onedark": {
+    "background": "#1e2127",
+    "foreground": "#abb2bf",
+    "colors": [
+      "#e06c75",
+      "#98c379",
+      "#61afef",
+      "#d19a66",
+      "#56b6c2",
+      "#c678dd"
+    ]
+  },
+  "onehalfdark": {
+    "background": "#282c34",
+    "foreground": "#dcdfe4",
+    "colors": [
+      "#e06c75",
+      "#98c379",
+      "#61afef",
+      "#e5c07b",
+      "#56b6c2",
+      "#c678dd"
+    ]
+  },
+  "onehalflight": {
+    "background": "#fafafa",
+    "foreground": "#383a42",
+    "colors": [
+      "#e45649",
+      "#50a14f",
+      "#0184bc",
+      "#c18401",
+      "#0997b3",
+      "#a626a4"
+    ]
+  },
+  "onestar": {
+    "background": "#0e0e0e",
+    "foreground": "#e4e4e4",
+    "colors": [
+      "#d13b3b",
+      "#0dbc79",
+      "#2472c8",
+      "#dfdf44",
+      "#33a0bb",
+      "#c42cc4"
+    ]
+  },
+  "operator_mono_dark": {
+    "background": "#191919",
+    "foreground": "#c3cac2",
+    "colors": [
+      "#ca372d",
+      "#4d7b3a",
+      "#4387cf",
+      "#d4d697",
+      "#72d5c6",
+      "#b86cb4"
+    ]
+  },
+  "overnight_slumber": {
+    "background": "#0e1729",
+    "foreground": "#ced2d6",
+    "colors": [
+      "#ffa7c4",
+      "#85cc95",
+      "#8dabe1",
+      "#ffcb8b",
+      "#78ccf0",
+      "#c792eb"
+    ]
+  },
+  "palenighthc": {
+    "background": "#3e4251",
+    "foreground": "#cccccc",
+    "colors": [
+      "#f07178",
+      "#c3e88d",
+      "#82aaff",
+      "#ffcb6b",
+      "#89ddff",
+      "#c792ea"
+    ]
+  },
+  "pandora": {
+    "background": "#141e43",
+    "foreground": "#e1e1e1",
+    "colors": [
+      "#ff4242",
+      "#74af68",
+      "#338f86",
+      "#ffad29",
+      "#23d7d7",
+      "#9414e6"
+    ]
+  },
+  "paraiso_dark": {
+    "background": "#2f1e2e",
+    "foreground": "#a39e9b",
+    "colors": [
+      "#ef6155",
+      "#48b685",
+      "#06b6ef",
+      "#fec418",
+      "#5bc4bf",
+      "#815ba4"
+    ]
+  },
+  "paulmillr": {
+    "background": "#000000",
+    "foreground": "#f2f2f2",
+    "colors": [
+      "#ff0000",
+      "#79ff0f",
+      "#396bd7",
+      "#e7bf00",
+      "#66ccff",
+      "#b449be"
+    ]
+  },
+  "pencildark": {
+    "background": "#212121",
+    "foreground": "#f1f1f1",
+    "colors": [
+      "#c30771",
+      "#10a778",
+      "#008ec4",
+      "#a89c14",
+      "#20a5ba",
+      "#523c79"
+    ]
+  },
+  "pencillight": {
+    "background": "#f1f1f1",
+    "foreground": "#424242",
+    "colors": [
+      "#c30771",
+      "#10a778",
+      "#008ec4",
+      "#a89c14",
+      "#20a5ba",
+      "#523c79"
+    ]
+  },
+  "peppermint": {
+    "background": "#000000",
+    "foreground": "#c8c8c8",
+    "colors": [
+      "#e74669",
+      "#89d287",
+      "#449fd0",
+      "#dab853",
+      "#65aaaf",
+      "#da62dc"
+    ]
+  },
+  "piatto_light": {
+    "background": "#ffffff",
+    "foreground": "#414141",
+    "colors": [
+      "#b23771",
+      "#66781e",
+      "#3c5ea8",
+      "#cd6f34",
+      "#66781e",
+      "#a454b2"
+    ]
+  },
+  "pnevma": {
+    "background": "#1c1c1c",
+    "foreground": "#d0d0d0",
+    "colors": [
+      "#a36666",
+      "#90a57d",
+      "#7fa5bd",
+      "#d7af87",
+      "#8adbb4",
+      "#c79ec4"
+    ]
+  },
+  "popping_and_locking": {
+    "background": "#181921",
+    "foreground": "#ebdbb2",
+    "colors": [
+      "#cc241d",
+      "#98971a",
+      "#458588",
+      "#d79921",
+      "#689d6a",
+      "#b16286"
+    ]
+  },
+  "primary": {
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "colors": [
+      "#db4437",
+      "#0f9d58",
+      "#4285f4",
+      "#f4b400",
+      "#4285f4",
+      "#db4437"
+    ]
+  },
+  "primer": {
+    "background": "#1a2b3c",
+    "foreground": "#ffffff",
+    "colors": [
+      "#ea4a5a",
+      "#34d058",
+      "#2188ff",
+      "#ffdf5d",
+      "#15e2e2",
+      "#8a63d2"
+    ]
+  },
+  "pro": {
+    "background": "#000000",
+    "foreground": "#f2f2f2",
+    "colors": [
+      "#990000",
+      "#00a600",
+      "#2009db",
+      "#999900",
+      "#00a6b2",
+      "#b200b2"
+    ]
+  },
+  "pro_light": {
+    "background": "#ffffff",
+    "foreground": "#191919",
+    "colors": [
+      "#e5492b",
+      "#50d148",
+      "#3b75ff",
+      "#c6c440",
+      "#4ed2de",
+      "#ed66e8"
+    ]
+  },
+  "purple_rain": {
+    "background": "#21084a",
+    "foreground": "#fffbf6",
+    "colors": [
+      "#ff260e",
+      "#9be205",
+      "#00a2fa",
+      "#ffc400",
+      "#00deef",
+      "#815bb5"
+    ]
+  },
+  "purplepeter": {
+    "background": "#2a1a4a",
+    "foreground": "#ece7fa",
+    "colors": [
+      "#ff796d",
+      "#99b481",
+      "#66d9ef",
+      "#efdfac",
+      "#ba8cff",
+      "#e78fcd"
+    ]
+  },
+  "qb64_super_dark_blue": {
+    "background": "#000027",
+    "foreground": "#D8D8D8",
+    "colors": [
+      "#98220E",
+      "#157E15",
+      "#054663",
+      "#808000",
+      "#00485C",
+      "#631563"
+    ]
+  },
+  "rapture": {
+    "background": "#111e2a",
+    "foreground": "#c0c9e5",
+    "colors": [
+      "#fc644d",
+      "#7afde1",
+      "#6c9bf5",
+      "#fff09b",
+      "#64e0ff",
+      "#ff4fa1"
+    ]
+  },
+  "raycast_dark": {
+    "background": "#1a1a1a",
+    "foreground": "#ffffff",
+    "colors": [
+      "#ff5360",
+      "#59d499",
+      "#56c2ff",
+      "#ffc531",
+      "#52eee5",
+      "#cf2f98"
+    ]
+  },
+  "raycast_light": {
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "colors": [
+      "#b12424",
+      "#006b4f",
+      "#138af2",
+      "#f8a300",
+      "#3eb8bf",
+      "#9a1b6e"
+    ]
+  },
+  "rebecca": {
+    "background": "#292a44",
+    "foreground": "#e8e6ed",
+    "colors": [
+      "#dd7755",
+      "#04dbb5",
+      "#7aa5ff",
+      "#f2e7b7",
+      "#56d3c2",
+      "#bf9cf9"
+    ]
+  },
+  "red_alert": {
+    "background": "#762423",
+    "foreground": "#ffffff",
+    "colors": [
+      "#d62e4e",
+      "#71be6b",
+      "#489bee",
+      "#beb86b",
+      "#6bbeb8",
+      "#e979d7"
+    ]
+  },
+  "red_planet": {
+    "background": "#222222",
+    "foreground": "#c2b790",
+    "colors": [
+      "#8c3432",
+      "#728271",
+      "#69819e",
+      "#e8bf6a",
+      "#5b8390",
+      "#896492"
+    ]
+  },
+  "red_sands": {
+    "background": "#7a251e",
+    "foreground": "#d7c9a7",
+    "colors": [
+      "#ff3f00",
+      "#00bb00",
+      "#0072ff",
+      "#e7b000",
+      "#00bbbb",
+      "#bb00bb"
+    ]
+  },
+  "relaxed": {
+    "background": "#353a44",
+    "foreground": "#d9d9d9",
+    "colors": [
+      "#bc5653",
+      "#909d63",
+      "#6a8799",
+      "#ebc17a",
+      "#c9dfff",
+      "#b06698"
+    ]
+  },
+  "retro": {
+    "background": "#000000",
+    "foreground": "#13a10e",
+    "colors": [
+      "#13a10e",
+      "#13a10e",
+      "#13a10e",
+      "#13a10e",
+      "#13a10e",
+      "#13a10e"
+    ]
+  },
+  "retrowave": {
+    "background": "#070825",
+    "foreground": "#46BDFF",
+    "colors": [
+      "#FF16B0",
+      "#929292",
+      "#46BDFF",
+      "#fcee54",
+      "#df81fc",
+      "#FF92DF"
+    ]
+  },
+  "rippedcasts": {
+    "background": "#2b2b2b",
+    "foreground": "#ffffff",
+    "colors": [
+      "#cdaf95",
+      "#a8ff60",
+      "#75a5b0",
+      "#bfbb1f",
+      "#5a647e",
+      "#ff73fd"
+    ]
+  },
+  "rose_pine": {
+    "background": "#191724",
+    "foreground": "#e0def4",
+    "colors": [
+      "#eb6f92",
+      "#9ccfd8",
+      "#31748f",
+      "#f6c177",
+      "#ebbcba",
+      "#c4a7e7"
+    ]
+  },
+  "rose-pine": {
+    "background": "#191724",
+    "foreground": "#e0def4",
+    "colors": [
+      "#eb6f92",
+      "#9ccfd8",
+      "#31748f",
+      "#f6c177",
+      "#ebbcba",
+      "#c4a7e7"
+    ]
+  },
+  "rose-pine-dawn": {
+    "background": "#faf4ed",
+    "foreground": "#575279",
+    "colors": [
+      "#b4637a",
+      "#56949f",
+      "#286983",
+      "#ea9d34",
+      "#d7827e",
+      "#907aa9"
+    ]
+  },
+  "rose-pine-moon": {
+    "background": "#232136",
+    "foreground": "#e0def4",
+    "colors": [
+      "#eb6f92",
+      "#9ccfd8",
+      "#3e8fb0",
+      "#f6c177",
+      "#ea9a97",
+      "#c4a7e7"
+    ]
+  },
+  "rouge_2": {
+    "background": "#17182b",
+    "foreground": "#a2a3aa",
+    "colors": [
+      "#c6797e",
+      "#969e92",
+      "#6e94b9",
+      "#dbcdab",
+      "#8ab6c1",
+      "#4c4e78"
+    ]
+  },
+  "royal": {
+    "background": "#100815",
+    "foreground": "#514968",
+    "colors": [
+      "#91284c",
+      "#23801c",
+      "#6580b0",
+      "#b49d27",
+      "#8aaabe",
+      "#674d96"
+    ]
+  },
+  "ryuuko": {
+    "background": "#2c3941",
+    "foreground": "#ececec",
+    "colors": [
+      "#865f5b",
+      "#66907d",
+      "#6a8e95",
+      "#b1a990",
+      "#88b2ac",
+      "#b18a73"
+    ]
+  },
+  "sakura": {
+    "background": "#18131e",
+    "foreground": "#dd7bdc",
+    "colors": [
+      "#d52370",
+      "#41af1a",
+      "#6964ab",
+      "#bc7053",
+      "#939393",
+      "#c71fbf"
+    ]
+  },
+  "scarlet_protocol": {
+    "background": "#1c153d",
+    "foreground": "#e41951",
+    "colors": [
+      "#ff0051",
+      "#00dc84",
+      "#0271b6",
+      "#faf945",
+      "#00c5c7",
+      "#ca30c7"
+    ]
+  },
+  "seafoam_pastel": {
+    "background": "#243435",
+    "foreground": "#d4e7d4",
+    "colors": [
+      "#825d4d",
+      "#728c62",
+      "#4d7b82",
+      "#ada16d",
+      "#729494",
+      "#8a7267"
+    ]
+  },
+  "seashells": {
+    "background": "#09141b",
+    "foreground": "#deb88d",
+    "colors": [
+      "#d15123",
+      "#027c9b",
+      "#1e4950",
+      "#fca02f",
+      "#50a3b5",
+      "#68d4f1"
+    ]
+  },
+  "seoulbones_dark": {
+    "background": "#4b4b4b",
+    "foreground": "#dddddd",
+    "colors": [
+      "#e388a3",
+      "#98bd99",
+      "#97bdde",
+      "#ffdf9b",
+      "#6fbdbe",
+      "#a5a6c5"
+    ]
+  },
+  "seoulbones_light": {
+    "background": "#e2e2e2",
+    "foreground": "#555555",
+    "colors": [
+      "#dc5284",
+      "#628562",
+      "#0084a3",
+      "#c48562",
+      "#008586",
+      "#896788"
+    ]
+  },
+  "serendipity_midnight": {
+    "background": "#1C1E2D",
+    "foreground": "#DEE0EF",
+    "colors": [
+      "#EE8679",
+      "#9CCFD8",
+      "#5BA2D0",
+      "#F8D2C9",
+      "#94B8FF",
+      "#A78BFA"
+    ]
+  },
+  "serendipity_morning": {
+    "background": "#FFFAF3",
+    "foreground": "#575279",
+    "colors": [
+      "#D26A5D",
+      "#77AAB3",
+      "#3788BE",
+      "#C8A299",
+      "#7397DE",
+      "#886CDB"
+    ]
+  },
+  "serendipity_sunset": {
+    "background": "#272938",
+    "foreground": "#DEE0EF",
+    "colors": [
+      "#D1918F",
+      "#AAC9D4",
+      "#709BBD",
+      "#EDD5D6",
+      "#A0B6E8",
+      "#A392DC"
+    ]
+  },
+  "seti": {
+    "background": "#111213",
+    "foreground": "#cacecd",
+    "colors": [
+      "#c22832",
+      "#8ec43d",
+      "#43a5d5",
+      "#e0c64f",
+      "#8ec43d",
+      "#8b57b5"
+    ]
+  },
+  "shades-of-purple": {
+    "background": "#1e1d40",
+    "foreground": "#ffffff",
+    "colors": [
+      "#d90429",
+      "#3ad900",
+      "#6943ff",
+      "#ffe700",
+      "#00c5c7",
+      "#ff2c70"
+    ]
+  },
+  "shaman": {
+    "background": "#001015",
+    "foreground": "#405555",
+    "colors": [
+      "#b2302d",
+      "#00a941",
+      "#449a86",
+      "#5e8baa",
+      "#5d7e19",
+      "#00599d"
+    ]
+  },
+  "slate": {
+    "background": "#222222",
+    "foreground": "#35b1d2",
+    "colors": [
+      "#e2a8bf",
+      "#81d778",
+      "#264b49",
+      "#c4c9c0",
+      "#15ab9c",
+      "#a481d3"
+    ]
+  },
+  "sleepyhollow": {
+    "background": "#121214",
+    "foreground": "#af9a91",
+    "colors": [
+      "#ba3934",
+      "#91773f",
+      "#5f63b4",
+      "#b55600",
+      "#8faea9",
+      "#a17c7b"
+    ]
+  },
+  "smyck": {
+    "background": "#1b1b1b",
+    "foreground": "#f7f7f7",
+    "colors": [
+      "#b84131",
+      "#7da900",
+      "#62a3c4",
+      "#c4a500",
+      "#207383",
+      "#ba8acc"
+    ]
+  },
+  "snazzy": {
+    "background": "#1e1f29",
+    "foreground": "#ebece6",
+    "colors": [
+      "#fc4346",
+      "#50fb7c",
+      "#49baff",
+      "#f0fb8c",
+      "#8be9fe",
+      "#fc4cb4"
+    ]
+  },
+  "softserver": {
+    "background": "#242626",
+    "foreground": "#99a3a2",
+    "colors": [
+      "#a2686a",
+      "#9aa56a",
+      "#6b8fa3",
+      "#a3906a",
+      "#6ba58f",
+      "#6a71a3"
+    ]
+  },
+  "solarized_darcula": {
+    "background": "#3d3f41",
+    "foreground": "#d2d8d9",
+    "colors": [
+      "#f24840",
+      "#629655",
+      "#2075c7",
+      "#b68800",
+      "#15968d",
+      "#797fd4"
+    ]
+  },
+  "solarized_dark_-_patched": {
+    "background": "#001e27",
+    "foreground": "#708284",
+    "colors": [
+      "#d11c24",
+      "#738a05",
+      "#2176c7",
+      "#a57706",
+      "#259286",
+      "#c61c6f"
+    ]
+  },
+  "solarized_dark_higher_contrast": {
+    "background": "#001e27",
+    "foreground": "#9cc2c3",
+    "colors": [
+      "#d11c24",
+      "#6cbe6c",
+      "#2176c7",
+      "#a57706",
+      "#259286",
+      "#c61c6f"
+    ]
+  },
+  "sonoran_gothic": {
+    "background": "#241F17",
+    "foreground": "#EAF4DE",
+    "colors": [
+      "#EB6f6f",
+      "#669C50",
+      "#227B4d",
+      "#F2D696",
+      "#E18F62",
+      "#A5ABDA"
+    ]
+  },
+  "sonoran_sunrise": {
+    "background": "#F9FAE3",
+    "foreground": "#61543E",
+    "colors": [
+      "#EB6f6f",
+      "#669C50",
+      "#227B4D",
+      "#F2C55C",
+      "#E07941",
+      "#7189D9"
+    ]
+  },
+  "spacedust": {
+    "background": "#0a1e24",
+    "foreground": "#ecf0c1",
+    "colors": [
+      "#e35b00",
+      "#5cab96",
+      "#0f548b",
+      "#e3cd7b",
+      "#06afc7",
+      "#e35b00"
+    ]
+  },
+  "spacegray": {
+    "background": "#20242d",
+    "foreground": "#b3b8c3",
+    "colors": [
+      "#b04b57",
+      "#87b379",
+      "#7d8fa4",
+      "#e5c179",
+      "#85a7a5",
+      "#a47996"
+    ]
+  },
+  "spacegray_eighties": {
+    "background": "#222222",
+    "foreground": "#bdbaae",
+    "colors": [
+      "#ec5f67",
+      "#81a764",
+      "#5486c0",
+      "#fec254",
+      "#57c2c1",
+      "#bf83c1"
+    ]
+  },
+  "spacegray_eighties_dull": {
+    "background": "#222222",
+    "foreground": "#c9c6bc",
+    "colors": [
+      "#b24a56",
+      "#92b477",
+      "#7c8fa5",
+      "#c6735a",
+      "#80cdcb",
+      "#a5789e"
+    ]
+  },
+  "spiderman": {
+    "background": "#1b1d1e",
+    "foreground": "#e3e3e3",
+    "colors": [
+      "#e60813",
+      "#e22928",
+      "#2c3fff",
+      "#e24756",
+      "#3256ff",
+      "#2435db"
+    ]
+  },
+  "spring": {
+    "background": "#ffffff",
+    "foreground": "#4d4d4c",
+    "colors": [
+      "#ff4d83",
+      "#1f8c3b",
+      "#1dd3ee",
+      "#1fc95b",
+      "#3e999f",
+      "#8959a8"
+    ]
+  },
+  "square": {
+    "background": "#1a1a1a",
+    "foreground": "#acacab",
+    "colors": [
+      "#e9897c",
+      "#b6377d",
+      "#a9cdeb",
+      "#ecebbe",
+      "#c9caec",
+      "#75507b"
+    ]
+  },
+  "sublette": {
+    "background": "#202535",
+    "foreground": "#ccced0",
+    "colors": [
+      "#ee5577",
+      "#55ee77",
+      "#5588ff",
+      "#ffdd88",
+      "#44eeee",
+      "#ff77cc"
+    ]
+  },
+  "subliminal": {
+    "background": "#282c35",
+    "foreground": "#d4d4d4",
+    "colors": [
+      "#e15a60",
+      "#a9cfa4",
+      "#6699cc",
+      "#ffe2a9",
+      "#5fb3b3",
+      "#f1a5ab"
+    ]
+  },
+  "sundried": {
+    "background": "#1a1818",
+    "foreground": "#c9c9c9",
+    "colors": [
+      "#a7463d",
+      "#587744",
+      "#485b98",
+      "#9d602a",
+      "#9c814f",
+      "#864651"
+    ]
+  },
+  "symfonic": {
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "colors": [
+      "#dc322f",
+      "#56db3a",
+      "#0084d4",
+      "#ff8400",
+      "#ccccff",
+      "#b729d9"
+    ]
+  },
+  "synthwave": {
+    "background": "#000000",
+    "foreground": "#dad9c7",
+    "colors": [
+      "#f6188f",
+      "#1ebb2b",
+      "#2186ec",
+      "#fdf834",
+      "#12c3e2",
+      "#f85a21"
+    ]
+  },
+  "synthwave-everything": {
+    "background": "#2a2139",
+    "foreground": "#f0eff1",
+    "colors": [
+      "#f97e72",
+      "#72f1b8",
+      "#6d77b3",
+      "#fede5d",
+      "#f772e0",
+      "#c792ea"
+    ]
+  },
+  "synthwavealpha": {
+    "background": "#241b30",
+    "foreground": "#f2f2e3",
+    "colors": [
+      "#e60a70",
+      "#00986c",
+      "#6e29ad",
+      "#adad3e",
+      "#00b0b1",
+      "#b300ad"
+    ]
+  },
+  "tango_adapted": {
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "colors": [
+      "#ff0000",
+      "#59d600",
+      "#00a2ff",
+      "#f0cb00",
+      "#00d0d6",
+      "#c17ecc"
+    ]
+  },
+  "tango_half_adapted": {
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "colors": [
+      "#ff0000",
+      "#4cc300",
+      "#008ef6",
+      "#e2c000",
+      "#00bdc3",
+      "#a96cb3"
+    ]
+  },
+  "teerb": {
+    "background": "#262626",
+    "foreground": "#d0d0d0",
+    "colors": [
+      "#d68686",
+      "#aed686",
+      "#86aed6",
+      "#d7af87",
+      "#8adbb4",
+      "#d6aed6"
+    ]
+  },
+  "terafox": {
+    "background": "#152528",
+    "foreground": "#e6eaea",
+    "colors": [
+      "#e85c51",
+      "#7aa4a1",
+      "#5a93aa",
+      "#fda47f",
+      "#a1cdd8",
+      "#ad5c7c"
+    ]
+  },
+  "terminal_basic": {
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "colors": [
+      "#990000",
+      "#00a600",
+      "#0000b2",
+      "#999900",
+      "#00a6b2",
+      "#b200b2"
+    ]
+  },
+  "thayer_bright": {
+    "background": "#1b1d1e",
+    "foreground": "#f8f8f8",
+    "colors": [
+      "#f92672",
+      "#4df840",
+      "#2757d6",
+      "#f4fd22",
+      "#38c8b5",
+      "#8c54fe"
+    ]
+  },
+  "the_hulk": {
+    "background": "#1b1d1e",
+    "foreground": "#b5b5b5",
+    "colors": [
+      "#269d1b",
+      "#13ce30",
+      "#2525f5",
+      "#63e457",
+      "#378ca9",
+      "#641f74"
+    ]
+  },
+  "tinacious_design_(dark)": {
+    "background": "#1d1d26",
+    "foreground": "#cbcbf0",
+    "colors": [
+      "#ff3399",
+      "#00d364",
+      "#00cbff",
+      "#ffcc66",
+      "#00ceca",
+      "#cc66ff"
+    ]
+  },
+  "tinacious_design_(light)": {
+    "background": "#f8f8ff",
+    "foreground": "#1d1d26",
+    "colors": [
+      "#ff3399",
+      "#00d364",
+      "#00cbff",
+      "#ffcc66",
+      "#00ceca",
+      "#cc66ff"
+    ]
+  },
+  "tokyonight": {
+    "background": "#1a1b26",
+    "foreground": "#c0caf5",
+    "colors": [
+      "#f7768e",
+      "#9ece6a",
+      "#7aa2f7",
+      "#e0af68",
+      "#7dcfff",
+      "#bb9af7"
+    ]
+  },
+  "tokyonight-day": {
+    "background": "#e1e2e7",
+    "foreground": "#3760bf",
+    "colors": [
+      "#f52a65",
+      "#587539",
+      "#2e7de9",
+      "#8c6c3e",
+      "#007197",
+      "#9854f1"
+    ]
+  },
+  "tokyonight-storm": {
+    "background": "#24283b",
+    "foreground": "#c0caf5",
+    "colors": [
+      "#f7768e",
+      "#9ece6a",
+      "#7aa2f7",
+      "#e0af68",
+      "#7dcfff",
+      "#bb9af7"
+    ]
+  },
+  "tokyonightlight": {
+    "background": "#cbccd1",
+    "foreground": "#4c505e",
+    "colors": [
+      "#8c4351",
+      "#33635c",
+      "#34548a",
+      "#8f5e15",
+      "#0f4b6e",
+      "#5a4a78"
+    ]
+  },
+  "tokyonightstorm": {
+    "background": "#1f2335",
+    "foreground": "#7982a9",
+    "colors": [
+      "#f7768e",
+      "#73daca",
+      "#7aa2f7",
+      "#e0af68",
+      "#7dcfff",
+      "#bb9af7"
+    ]
+  },
+  "tomorrow": {
+    "background": "#ffffff",
+    "foreground": "#4d4d4c",
+    "colors": [
+      "#c82829",
+      "#718c00",
+      "#4271ae",
+      "#eab700",
+      "#3e999f",
+      "#8959a8"
+    ]
+  },
+  "tomorrow_night": {
+    "background": "#1d1f21",
+    "foreground": "#c5c8c6",
+    "colors": [
+      "#cc6666",
+      "#b5bd68",
+      "#81a2be",
+      "#f0c674",
+      "#8abeb7",
+      "#b294bb"
+    ]
+  },
+  "tomorrow_night_blue": {
+    "background": "#002451",
+    "foreground": "#ffffff",
+    "colors": [
+      "#ff9da4",
+      "#d1f1a9",
+      "#bbdaff",
+      "#ffeead",
+      "#99ffff",
+      "#ebbbff"
+    ]
+  },
+  "tomorrow_night_bright": {
+    "background": "#000000",
+    "foreground": "#eaeaea",
+    "colors": [
+      "#d54e53",
+      "#b9ca4a",
+      "#7aa6da",
+      "#e7c547",
+      "#70c0b1",
+      "#c397d8"
+    ]
+  },
+  "tomorrow_night_burns": {
+    "background": "#151515",
+    "foreground": "#a1b0b8",
+    "colors": [
+      "#832e31",
+      "#a63c40",
+      "#fc595f",
+      "#d3494e",
+      "#ba8586",
+      "#df9395"
+    ]
+  },
+  "tomorrow_night_eighties": {
+    "background": "#2d2d2d",
+    "foreground": "#cccccc",
+    "colors": [
+      "#f2777a",
+      "#99cc99",
+      "#6699cc",
+      "#ffcc66",
+      "#66cccc",
+      "#cc99cc"
+    ]
+  },
+  "toychest": {
+    "background": "#24364b",
+    "foreground": "#31d07b",
+    "colors": [
+      "#be2d26",
+      "#1a9172",
+      "#325d96",
+      "#db8e27",
+      "#35a08f",
+      "#8a5edc"
+    ]
+  },
+  "treehouse": {
+    "background": "#191919",
+    "foreground": "#786b53",
+    "colors": [
+      "#b2270e",
+      "#44a900",
+      "#58859a",
+      "#aa820c",
+      "#b25a1e",
+      "#97363d"
+    ]
+  },
+  "twilight": {
+    "background": "#141414",
+    "foreground": "#ffffd4",
+    "colors": [
+      "#c06d44",
+      "#afb97a",
+      "#44474a",
+      "#c2a86c",
+      "#778385",
+      "#b4be7c"
+    ]
+  },
+  "ubuntu": {
+    "background": "#300a24",
+    "foreground": "#eeeeec",
+    "colors": [
+      "#cc0000",
+      "#4e9a06",
+      "#3465a4",
+      "#c4a000",
+      "#06989a",
+      "#75507b"
+    ]
+  },
+  "ultradark": {
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "colors": [
+      "#f07178",
+      "#c3e88d",
+      "#82aaff",
+      "#ffcb6b",
+      "#89ddff",
+      "#c792ea"
+    ]
+  },
+  "ultraviolent": {
+    "background": "#242728",
+    "foreground": "#c1c1c1",
+    "colors": [
+      "#ff0090",
+      "#b6ff00",
+      "#47e0fb",
+      "#fff727",
+      "#0effbb",
+      "#d731ff"
+    ]
+  },
+  "underthesea": {
+    "background": "#011116",
+    "foreground": "#ffffff",
+    "colors": [
+      "#b2302d",
+      "#00a941",
+      "#459a86",
+      "#59819c",
+      "#5d7e19",
+      "#00599d"
+    ]
+  },
+  "unholy": {
+    "background": "#202020",
+    "foreground": "#F8F8F2",
+    "colors": [
+      "#D16969",
+      "#608B4E",
+      "#65AEF7",
+      "#FDD877",
+      "#9CDCFE",
+      "#AE81FF"
+    ]
+  },
+  "unikitty": {
+    "background": "#ff8cd9",
+    "foreground": "#0b0b0b",
+    "colors": [
+      "#a80f20",
+      "#bafc8b",
+      "#145fcd",
+      "#eedf4b",
+      "#6bd1bc",
+      "#ff36a2"
+    ]
+  },
+  "urple": {
+    "background": "#1b1b23",
+    "foreground": "#877a9b",
+    "colors": [
+      "#b0425b",
+      "#37a415",
+      "#564d9b",
+      "#ad5c42",
+      "#808080",
+      "#6c3ca1"
+    ]
+  },
+  "vaughn": {
+    "background": "#25234f",
+    "foreground": "#dcdccc",
+    "colors": [
+      "#705050",
+      "#60b48a",
+      "#5555ff",
+      "#dfaf8f",
+      "#8cd0d3",
+      "#f08cc3"
+    ]
+  },
+  "vesper": {
+    "background": "#101010",
+    "foreground": "#ffffff",
+    "colors": [
+      "#f5a191",
+      "#90b99f",
+      "#aca1cf",
+      "#e6b99d",
+      "#ea83a5",
+      "#e29eca"
+    ]
+  },
+  "vibrantink": {
+    "background": "#000000",
+    "foreground": "#ffffff",
+    "colors": [
+      "#ff6600",
+      "#ccff04",
+      "#44b4cc",
+      "#ffcc00",
+      "#44b4cc",
+      "#9933cc"
+    ]
+  },
+  "vimbones": {
+    "background": "#f0f0ca",
+    "foreground": "#353535",
+    "colors": [
+      "#a8334c",
+      "#4f6c31",
+      "#286486",
+      "#944927",
+      "#3b8992",
+      "#88507d"
+    ]
+  },
+  "violet_dark": {
+    "background": "#1c1d1f",
+    "foreground": "#708284",
+    "colors": [
+      "#c94c22",
+      "#85981c",
+      "#2e8bce",
+      "#b4881d",
+      "#32a198",
+      "#d13a82"
+    ]
+  },
+  "violet_light": {
+    "background": "#fcf4dc",
+    "foreground": "#536870",
+    "colors": [
+      "#c94c22",
+      "#85981c",
+      "#2e8bce",
+      "#b4881d",
+      "#32a198",
+      "#d13a82"
+    ]
+  },
+  "warmneon": {
+    "background": "#404040",
+    "foreground": "#afdab6",
+    "colors": [
+      "#e24346",
+      "#39b13a",
+      "#4261c5",
+      "#dae145",
+      "#2abbd4",
+      "#f920fb"
+    ]
+  },
+  "wez": {
+    "background": "#000000",
+    "foreground": "#b3b3b3",
+    "colors": [
+      "#cc5555",
+      "#55cc55",
+      "#5555cc",
+      "#cdcd55",
+      "#7acaca",
+      "#cc55cc"
+    ]
+  },
+  "whimsy": {
+    "background": "#29283b",
+    "foreground": "#b3b0d6",
+    "colors": [
+      "#ef6487",
+      "#5eca89",
+      "#65aef7",
+      "#fdd877",
+      "#43c1be",
+      "#aa7ff0"
+    ]
+  },
+  "wildcherry": {
+    "background": "#1f1726",
+    "foreground": "#dafaff",
+    "colors": [
+      "#d94085",
+      "#2ab250",
+      "#883cdc",
+      "#ffd16f",
+      "#c1b8b7",
+      "#ececec"
+    ]
+  },
+  "wilmersdorf": {
+    "background": "#282b33",
+    "foreground": "#c6c6c6",
+    "colors": [
+      "#e06383",
+      "#7ebebd",
+      "#a6c1e0",
+      "#cccccc",
+      "#5b94ab",
+      "#e1c1ee"
+    ]
+  },
+  "wombat": {
+    "background": "#171717",
+    "foreground": "#dedacf",
+    "colors": [
+      "#ff615a",
+      "#b1e969",
+      "#5da9f6",
+      "#ebd99c",
+      "#82fff7",
+      "#e86aff"
+    ]
+  },
+  "wryan": {
+    "background": "#101010",
+    "foreground": "#999993",
+    "colors": [
+      "#8c4665",
+      "#287373",
+      "#395573",
+      "#7c7c99",
+      "#31658c",
+      "#5e468c"
+    ]
+  },
+  "zenbones": {
+    "background": "#f0edec",
+    "foreground": "#2c363c",
+    "colors": [
+      "#a8334c",
+      "#4f6c31",
+      "#286486",
+      "#944927",
+      "#3b8992",
+      "#88507d"
+    ]
+  },
+  "zenbones_dark": {
+    "background": "#1c1917",
+    "foreground": "#b4bdc3",
+    "colors": [
+      "#de6e7c",
+      "#819b69",
+      "#6099c0",
+      "#b77e64",
+      "#66a5ad",
+      "#b279a7"
+    ]
+  },
+  "zenbones_light": {
+    "background": "#f0edec",
+    "foreground": "#2c363c",
+    "colors": [
+      "#a8334c",
+      "#4f6c31",
+      "#286486",
+      "#944927",
+      "#3b8992",
+      "#88507d"
+    ]
+  },
+  "zenburn": {
+    "background": "#3f3f3f",
+    "foreground": "#dcdccc",
+    "colors": [
+      "#705050",
+      "#60b48a",
+      "#506070",
+      "#f0dfaf",
+      "#8cd0d3",
+      "#dc8cc3"
+    ]
+  },
+  "zenburned": {
+    "background": "#404040",
+    "foreground": "#f0e4cf",
+    "colors": [
+      "#e3716e",
+      "#819b69",
+      "#6099c0",
+      "#b77e64",
+      "#66a5ad",
+      "#b279a7"
+    ]
+  },
+  "zenwritten_dark": {
+    "background": "#191919",
+    "foreground": "#bbbbbb",
+    "colors": [
+      "#de6e7c",
+      "#819b69",
+      "#6099c0",
+      "#b77e64",
+      "#66a5ad",
+      "#b279a7"
+    ]
+  },
+  "zenwritten_light": {
+    "background": "#eeeeee",
+    "foreground": "#353535",
+    "colors": [
+      "#a8334c",
+      "#4f6c31",
+      "#286486",
+      "#944927",
+      "#3b8992",
+      "#88507d"
+    ]
+  },
+  "zeonica": {
+    "background": "#01001D",
+    "foreground": "#FFFFFF",
+    "colors": [
+      "#CC2929",
+      "#21C221",
+      "#3E31F5",
+      "#D6C315",
+      "#13D4D4",
+      "#D918B9"
+    ]
+  }
+}

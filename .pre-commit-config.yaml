@@ -1,20 +1,30 @@
+ci:
+  autoupdate_commit_msg: "chore: update pre-commit hooks"
+  autofix_commit_msg: "style: pre-commit fixes"
+
+exclude: ^(.bumpversion.cfg)
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v2.3.0
+    rev: "v4.6.0"
     hooks:
+      - id: check-added-large-files
+      - id: check-case-conflict
+      - id: check-merge-conflict
+      - id: check-symlinks
       - id: check-yaml
+      - id: debug-statements
       - id: end-of-file-fixer
+      - id: mixed-line-ending
+      - id: name-tests-test
+        args: ["--pytest-test-first"]
       - id: trailing-whitespace
-  - repo: https://github.com/ambv/black
-    rev: 21.7b0
+
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: "v0.5.5"
     hooks:
-      - id: black
-  - repo: https://gitlab.com/pycqa/flake8
-    rev: 3.9.2
-    hooks:
-      - id: flake8
-  - repo: https://github.com/pycqa/isort
-    rev: 5.9.3
-    hooks:
-      - id: isort
-        name: isort (python)
+      # first, lint + autofix
+      - id: ruff
+        types_or: [python, pyi, jupyter]
+        args: ["--fix", "--show-fixes"]
+      # then, format
+      - id: ruff-format

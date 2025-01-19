@@ -1,84 +1,136 @@
-[tool.poetry]
-name = "attractors"
-version = "1.4.1"
-description = "Simulation and visualization of strange attractors"
-authors = ["Vignesh Mohan <vignesh.desmond@gmail.com>"]
-maintainers = ["Vignesh Mohan <vignesh.desmond@gmail.com>"]
-license = "MIT"
-readme = "readme.rst"
-homepage = "https://github.com/Vignesh-Desmond/attractors"
-repository = "https://github.com/Vignesh-Desmond/attractors"
-documentation = "https://attractors.readthedocs.io/en/latest/"
-keywords = [
-    "Attractors",
-    "Strange Attractors",
-    "Lorenz",
-    "Chen",
-    "Chaotic Attractors",
-]
-classifiers = [
-    "Topic :: Scientific/Engineering :: Visualization",
-    "Framework :: Matplotlib",
-    "Intended Audience :: Education",
-]
-include = [
-    "LICENSE",
-]
-
-[tool.poetry.dependencies]
-python = "^3.7"
-matplotlib = "^3.4.2"
-tqdm = "^4.61.2"
-pathos = "^0.2.8"
-more-itertools = "^8.8.0"
-
-[tool.poetry.dev-dependencies]
-pytest = "^6.2.4"
-black = "^21.6b0"
-isort = "^5.9.1"
-pytest-cov = "^2.12.1"
-Sphinx = "^4.1.1"
-sphinx-rtd-theme = "^0.5.2"
-pre-commit = "^2.13.0"
-flake8 = "^3.9.2"
-
-[tool.poetry.scripts]
-attractors = "attractors.parser:cli"
-
-[tool.poetry.extras]
-doc = ["sphinx", "matplotlib", "pathos", "tqdm", "numpy", "more-itertools"]
-
 [build-system]
-requires = ["poetry-core>=1.0.0"]
-build-backend = "poetry.core.masonry.api"
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
 
-[tool.flake8]
-ignore = ['E203', 'E266', 'E501', 'W503', 'F403', 'F401']
-max-line-length = 88
-max-complexity = 18
+[project]
+name = "attractors"
+version = "2.0.0-beta.1"
+authors = [
+  { name = "vdesmond", email = "vignesh.desmond@gmail.com" },
+]
+description = "A package for simulation and visualization of strange attractors"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Intended Audience :: Science/Research",
+  "Intended Audience :: Developers",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Scientific/Engineering",
+  "Typing :: Typed",
+]
+dependencies = [
+    "matplotlib>=3.10.0",
+    "numba>=0.60.0",
+    "numpy>=2.0.2",
+    "setuptools>=75.7.0",
+]
 
-[tool.isort]
-known_third_party = ["matplotlib", "mpl_toolkits", "numpy", "src"]
-multi_line_output = 3
-line_length = 88
-include_trailing_comma = true
+[dependency-groups]
+dev = [
+  "pytest >=6",
+  "pytest-cov >=3",
+  "pre-commit",
+  "mypy>=1.14.1",
+]
+lint = [
+  "ruff",
+]
 
-[tool.black]
-line-length = 88
-target-version = ['py37', 'py37', 'py38']
-include = '\.pyi?$'
-exclude = '''
-/(
-    \.eggs
-  | \.git
-  | \.hg
-  | \.mypy_cache
-  | \.tox
-  | \.venv
-  | _build
-  | buck-out
-  | build
-  | dist
-  | migrations
-)/
-'''
+[project.urls]
+Homepage = "https://github.com/vdesmond/attractors"
+"Bug Tracker" = "https://github.com/vdesmond/attractors/issues"
+Discussions = "https://github.com/vdesmond/attractors/discussions"
+Changelog = "https://github.com/vdesmond/attractors/releases"
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = ["-ra", "--showlocals", "--strict-markers", "--strict-config"]
+xfail_strict = true
+filterwarnings = [
+  "error",
+]
+log_cli_level = "INFO"
+testpaths = [
+  "tests",
+]
+
+[tool.coverage]
+run.source = ["attractors"]
+port.exclude_lines = [
+  'pragma: no cover',
+  '\.\.\.',
+  'if typing.TYPE_CHECKING:',
+]
+
+[tool.mypy]
+files = ["src", "tests"]
+python_version = "3.11"
+show_error_codes = true
+warn_unreachable = true
+disallow_untyped_defs = false
+disallow_incomplete_defs = false
+check_untyped_defs = true
+strict = true
+enable_error_code = ["ignore-without-code", "redundant-expr", "truthy-bool"]
+disable_error_code = ["misc"]
+
+[[tool.mypy.overrides]]
+module = "numba.*"
+ignore_missing_imports = true
+
+[[tool.mypy.overrides]]
+module = "attractors.*"
+disallow_untyped_defs = true
+disallow_incomplete_defs = true
+
+[tool.ruff]
+src = ["src"]
+exclude = []
+line-length = 100
+extend-exclude = ["docs"]
+
+[tool.ruff.format]
+docstring-code-format = true
+
+[tool.ruff.lint]
+select = [
+  "E", "F", "W", # flake8
+  "B",           # flake8-bugbear
+  "I",           # isort
+  "ARG",         # flake8-unused-arguments
+  "C4",          # flake8-comprehensions
+  "EM",          # flake8-errmsg
+  "ICN",         # flake8-import-conventions
+  "ISC",         # flake8-implicit-str-concat
+  "G",           # flake8-logging-format
+  "PGH",         # pygrep-hooks
+  "PIE",         # flake8-pie
+  "PL",          # pylint
+  "PT",          # flake8-pytest-style
+  "RET",         # flake8-return
+  "RUF",         # Ruff-specific
+  "SIM",         # flake8-simplify
+  "UP",          # pyupgrade
+  "YTT",         # flake8-2020
+  "EXE",         # flake8-executable
+]
+ignore = [
+  "PLR",    # Design related pylint codes
+  "ISC001", # Conflicts with formatter
+  "EM101"
+]
+unfixable = [
+  "F401",   # Would remove unused imports
+  "F841",   # Would remove unused variables
+]
+flake8-unused-arguments.ignore-variadic-names = true  # allow unused *args/**kwargsisort.required-imports = ["from __future__ import annotations"]
+
+[tool.ruff.lint.flake8-pytest-style]
+fixture-parentheses = true
